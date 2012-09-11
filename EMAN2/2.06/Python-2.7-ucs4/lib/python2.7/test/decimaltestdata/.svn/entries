@@ -1,0 +1,1029 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/lib/python2.7/test/decimaltestdata
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+rounding.decTest
+file
+
+
+
+add
+
+decDouble.decTest
+file
+
+
+
+add
+
+dqClass.decTest
+file
+
+
+
+add
+
+copysign.decTest
+file
+
+
+
+add
+
+decSingle.decTest
+file
+
+
+
+add
+
+ddAdd.decTest
+file
+
+
+
+add
+
+ddCopySign.decTest
+file
+
+
+
+add
+
+ddEncode.decTest
+file
+
+
+
+add
+
+powersqrt.decTest
+file
+
+
+
+add
+
+decQuad.decTest
+file
+
+
+
+add
+
+dqPlus.decTest
+file
+
+
+
+add
+
+dqCompare.decTest
+file
+
+
+
+add
+
+ddInvert.decTest
+file
+
+
+
+add
+
+dqCopySign.decTest
+file
+
+
+
+add
+
+ddBase.decTest
+file
+
+
+
+add
+
+log10.decTest
+file
+
+
+
+add
+
+nextplus.decTest
+file
+
+
+
+add
+
+dqSameQuantum.decTest
+file
+
+
+
+add
+
+ddMultiply.decTest
+file
+
+
+
+add
+
+dqFMA.decTest
+file
+
+
+
+add
+
+ddNextPlus.decTest
+file
+
+
+
+add
+
+minus.decTest
+file
+
+
+
+add
+
+power.decTest
+file
+
+
+
+add
+
+nexttoward.decTest
+file
+
+
+
+add
+
+samequantum.decTest
+file
+
+
+
+add
+
+comparetotmag.decTest
+file
+
+
+
+add
+
+and.decTest
+file
+
+
+
+add
+
+dqMultiply.decTest
+file
+
+
+
+add
+
+dqOr.decTest
+file
+
+
+
+add
+
+ddNextToward.decTest
+file
+
+
+
+add
+
+dqNextPlus.decTest
+file
+
+
+
+add
+
+xor.decTest
+file
+
+
+
+add
+
+ddSameQuantum.decTest
+file
+
+
+
+add
+
+ddFMA.decTest
+file
+
+
+
+add
+
+dqCopyNegate.decTest
+file
+
+
+
+add
+
+dqAnd.decTest
+file
+
+
+
+add
+
+dqReduce.decTest
+file
+
+
+
+add
+
+dqXor.decTest
+file
+
+
+
+add
+
+dqMaxMag.decTest
+file
+
+
+
+add
+
+dqCopy.decTest
+file
+
+
+
+add
+
+ddCompareSig.decTest
+file
+
+
+
+add
+
+ddMinus.decTest
+file
+
+
+
+add
+
+fma.decTest
+file
+
+
+
+add
+
+dqDivideInt.decTest
+file
+
+
+
+add
+
+reduce.decTest
+file
+
+
+
+add
+
+tointegral.decTest
+file
+
+
+
+add
+
+dqLogB.decTest
+file
+
+
+
+add
+
+ln.decTest
+file
+
+
+
+add
+
+ddAnd.decTest
+file
+
+
+
+add
+
+dqCompareTotal.decTest
+file
+
+
+
+add
+
+ddXor.decTest
+file
+
+
+
+add
+
+ddToIntegral.decTest
+file
+
+
+
+add
+
+plus.decTest
+file
+
+
+
+add
+
+dsEncode.decTest
+file
+
+
+
+add
+
+subtract.decTest
+file
+
+
+
+add
+
+ddCompareTotalMag.decTest
+file
+
+
+
+add
+
+dqDivide.decTest
+file
+
+
+
+add
+
+copyabs.decTest
+file
+
+
+
+add
+
+divide.decTest
+file
+
+
+
+add
+
+ddCopyAbs.decTest
+file
+
+
+
+add
+
+maxmag.decTest
+file
+
+
+
+add
+
+remainderNear.decTest
+file
+
+
+
+add
+
+dqCanonical.decTest
+file
+
+
+
+add
+
+dqNextMinus.decTest
+file
+
+
+
+add
+
+ddReduce.decTest
+file
+
+
+
+add
+
+dqMinus.decTest
+file
+
+
+
+add
+
+ddMaxMag.decTest
+file
+
+
+
+add
+
+dqRotate.decTest
+file
+
+
+
+add
+
+dqNextToward.decTest
+file
+
+
+
+add
+
+compare.decTest
+file
+
+
+
+add
+
+inexact.decTest
+file
+
+
+
+add
+
+ddPlus.decTest
+file
+
+
+
+add
+
+exp.decTest
+file
+
+
+
+add
+
+dqMinMag.decTest
+file
+
+
+
+add
+
+rotate.decTest
+file
+
+
+
+add
+
+ddSubtract.decTest
+file
+
+
+
+add
+
+copy.decTest
+file
+
+
+
+add
+
+ddDivide.decTest
+file
+
+
+
+add
+
+dqSubtract.decTest
+file
+
+
+
+add
+
+shift.decTest
+file
+
+
+
+add
+
+randomBound32.decTest
+file
+
+
+
+add
+
+dqScaleB.decTest
+file
+
+
+
+add
+
+dqCompareSig.decTest
+file
+
+
+
+add
+
+divideint.decTest
+file
+
+
+
+add
+
+min.decTest
+file
+
+
+
+add
+
+ddRemainderNear.decTest
+file
+
+
+
+add
+
+max.decTest
+file
+
+
+
+add
+
+ddDivideInt.decTest
+file
+
+
+
+add
+
+dqRemainder.decTest
+file
+
+
+
+add
+
+dqToIntegral.decTest
+file
+
+
+
+add
+
+ddCompare.decTest
+file
+
+
+
+add
+
+dqBase.decTest
+file
+
+
+
+add
+
+quantize.decTest
+file
+
+
+
+add
+
+dsBase.decTest
+file
+
+
+
+add
+
+class.decTest
+file
+
+
+
+add
+
+abs.decTest
+file
+
+
+
+add
+
+ddRotate.decTest
+file
+
+
+
+add
+
+minmag.decTest
+file
+
+
+
+add
+
+dqMin.decTest
+file
+
+
+
+add
+
+dqMax.decTest
+file
+
+
+
+add
+
+or.decTest
+file
+
+
+
+add
+
+ddMinMag.decTest
+file
+
+
+
+add
+
+ddCopy.decTest
+file
+
+
+
+add
+
+logb.decTest
+file
+
+
+
+add
+
+ddShift.decTest
+file
+
+
+
+add
+
+scaleb.decTest
+file
+
+
+
+add
+
+dqAbs.decTest
+file
+
+
+
+add
+
+nextminus.decTest
+file
+
+
+
+add
+
+comparetotal.decTest
+file
+
+
+
+add
+
+ddLogB.decTest
+file
+
+
+
+add
+
+ddMin.decTest
+file
+
+
+
+add
+
+ddMax.decTest
+file
+
+
+
+add
+
+ddCanonical.decTest
+file
+
+
+
+add
+
+ddScaleB.decTest
+file
+
+
+
+add
+
+dqRemainderNear.decTest
+file
+
+
+
+add
+
+ddCompareTotal.decTest
+file
+
+
+
+add
+
+ddNextMinus.decTest
+file
+
+
+
+add
+
+dqCompareTotalMag.decTest
+file
+
+
+
+add
+
+remainder.decTest
+file
+
+
+
+add
+
+ddQuantize.decTest
+file
+
+
+
+add
+
+testall.decTest
+file
+
+
+
+add
+
+ddClass.decTest
+file
+
+
+
+add
+
+ddAbs.decTest
+file
+
+
+
+add
+
+rescale.decTest
+file
+
+
+
+add
+
+dqEncode.decTest
+file
+
+
+
+add
+
+extra.decTest
+file
+
+
+
+add
+
+dqCopyAbs.decTest
+file
+
+
+
+add
+
+dqQuantize.decTest
+file
+
+
+
+add
+
+add.decTest
+file
+
+
+
+add
+
+ddOr.decTest
+file
+
+
+
+add
+
+dqInvert.decTest
+file
+
+
+
+add
+
+clamp.decTest
+file
+
+
+
+add
+
+copynegate.decTest
+file
+
+
+
+add
+
+tointegralx.decTest
+file
+
+
+
+add
+
+dqShift.decTest
+file
+
+
+
+add
+
+randoms.decTest
+file
+
+
+
+add
+
+squareroot.decTest
+file
+
+
+
+add
+
+ddCopyNegate.decTest
+file
+
+
+
+add
+
+invert.decTest
+file
+
+
+
+add
+
+base.decTest
+file
+
+
+
+add
+
+dqAdd.decTest
+file
+
+
+
+add
+
+ddRemainder.decTest
+file
+
+
+
+add
+
+multiply.decTest
+file
+
+
+
+add
+

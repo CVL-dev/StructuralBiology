@@ -1,0 +1,686 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/include/python2.7
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+bytearrayobject.h
+file
+
+
+
+add
+
+ucnhash.h
+file
+
+
+
+add
+
+iterobject.h
+file
+
+
+
+add
+
+enumobject.h
+file
+
+
+
+add
+
+sip.h
+file
+
+
+
+add
+
+classobject.h
+file
+
+
+
+add
+
+datetime.h
+file
+
+
+
+add
+
+stringobject.h
+file
+
+
+
+add
+
+pyport.h
+file
+
+
+
+add
+
+complexobject.h
+file
+
+
+
+add
+
+codecs.h
+file
+
+
+
+add
+
+longintrepr.h
+file
+
+
+
+add
+
+bytes_methods.h
+file
+
+
+
+add
+
+opcode.h
+file
+
+
+
+add
+
+code.h
+file
+
+
+
+add
+
+dictobject.h
+file
+
+
+
+add
+
+py_curses.h
+file
+
+
+
+add
+
+unicodeobject.h
+file
+
+
+
+add
+
+pystrcmp.h
+file
+
+
+
+add
+
+intobject.h
+file
+
+
+
+add
+
+asdl.h
+file
+
+
+
+add
+
+rangeobject.h
+file
+
+
+
+add
+
+errcode.h
+file
+
+
+
+add
+
+pgenheaders.h
+file
+
+
+
+add
+
+ceval.h
+file
+
+
+
+add
+
+objimpl.h
+file
+
+
+
+add
+
+timefuncs.h
+file
+
+
+
+add
+
+pyarena.h
+file
+
+
+
+add
+
+listobject.h
+file
+
+
+
+add
+
+cobject.h
+file
+
+
+
+add
+
+graminit.h
+file
+
+
+
+add
+
+bsddb3
+dir
+
+
+
+add
+
+pygetopt.h
+file
+
+
+
+add
+
+moduleobject.h
+file
+
+
+
+add
+
+traceback.h
+file
+
+
+
+add
+
+token.h
+file
+
+
+
+add
+
+Python.h
+file
+
+
+
+add
+
+funcobject.h
+file
+
+
+
+add
+
+osdefs.h
+file
+
+
+
+add
+
+grammar.h
+file
+
+
+
+add
+
+ast.h
+file
+
+
+
+add
+
+pymem.h
+file
+
+
+
+add
+
+patchlevel.h
+file
+
+
+
+add
+
+parsetok.h
+file
+
+
+
+add
+
+pystate.h
+file
+
+
+
+add
+
+bitset.h
+file
+
+
+
+add
+
+floatobject.h
+file
+
+
+
+add
+
+structseq.h
+file
+
+
+
+add
+
+pyctype.h
+file
+
+
+
+add
+
+cStringIO.h
+file
+
+
+
+add
+
+pymath.h
+file
+
+
+
+add
+
+abstract.h
+file
+
+
+
+add
+
+pycapsule.h
+file
+
+
+
+add
+
+object.h
+file
+
+
+
+add
+
+cellobject.h
+file
+
+
+
+add
+
+pythonrun.h
+file
+
+
+
+add
+
+methodobject.h
+file
+
+
+
+add
+
+import.h
+file
+
+
+
+add
+
+weakrefobject.h
+file
+
+
+
+add
+
+structmember.h
+file
+
+
+
+add
+
+pythread.h
+file
+
+
+
+add
+
+tupleobject.h
+file
+
+
+
+add
+
+symtable.h
+file
+
+
+
+add
+
+boolobject.h
+file
+
+
+
+add
+
+pyfpe.h
+file
+
+
+
+add
+
+descrobject.h
+file
+
+
+
+add
+
+dtoa.h
+file
+
+
+
+add
+
+marshal.h
+file
+
+
+
+add
+
+pystrtod.h
+file
+
+
+
+add
+
+compile.h
+file
+
+
+
+add
+
+warnings.h
+file
+
+
+
+add
+
+pgen.h
+file
+
+
+
+add
+
+pyexpat.h
+file
+
+
+
+add
+
+metagrammar.h
+file
+
+
+
+add
+
+memoryobject.h
+file
+
+
+
+add
+
+pydebug.h
+file
+
+
+
+add
+
+pymacconfig.h
+file
+
+
+
+add
+
+bufferobject.h
+file
+
+
+
+add
+
+genobject.h
+file
+
+
+
+add
+
+Python-ast.h
+file
+
+
+
+add
+
+fileobject.h
+file
+
+
+
+add
+
+intrcheck.h
+file
+
+
+
+add
+
+modsupport.h
+file
+
+
+
+add
+
+bytesobject.h
+file
+
+
+
+add
+
+pyconfig.h
+file
+
+
+
+add
+
+pymactoolbox.h
+file
+
+
+
+add
+
+frameobject.h
+file
+
+
+
+add
+
+setobject.h
+file
+
+
+
+add
+
+sysmodule.h
+file
+
+
+
+add
+
+pyerrors.h
+file
+
+
+
+add
+
+node.h
+file
+
+
+
+add
+
+longobject.h
+file
+
+
+
+add
+
+sliceobject.h
+file
+
+
+
+add
+
+eval.h
+file
+
+
+
+add
+

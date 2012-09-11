@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/sip/PyQt4/QtScript
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+qscriptcontextinfo.sip
+file
+
+
+
+add
+
+QtScriptmod.sip
+file
+
+
+
+add
+
+qscriptcontext.sip
+file
+
+
+
+add
+
+qscriptengineagent.sip
+file
+
+
+
+add
+
+qscriptclasspropertyiterator.sip
+file
+
+
+
+add
+
+qscriptengine.sip
+file
+
+
+
+add
+
+qscriptclass.sip
+file
+
+
+
+add
+
+qscriptvalueiterator.sip
+file
+
+
+
+add
+
+qscriptstring.sip
+file
+
+
+
+add
+
+qscriptvalue.sip
+file
+
+
+
+add
+

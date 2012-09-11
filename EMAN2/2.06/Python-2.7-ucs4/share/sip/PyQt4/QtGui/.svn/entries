@@ -1,0 +1,1407 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/sip/PyQt4/QtGui
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+qgraphicswidget.sip
+file
+
+
+
+add
+
+qabstracttextdocumentlayout.sip
+file
+
+
+
+add
+
+qfont.sip
+file
+
+
+
+add
+
+qgesturerecognizer.sip
+file
+
+
+
+add
+
+qtextdocumentfragment.sip
+file
+
+
+
+add
+
+QtGuimod.sip
+file
+
+
+
+add
+
+qstatusbar.sip
+file
+
+
+
+add
+
+qtabwidget.sip
+file
+
+
+
+add
+
+qrgb.sip
+file
+
+
+
+add
+
+qmdisubwindow.sip
+file
+
+
+
+add
+
+qcalendarwidget.sip
+file
+
+
+
+add
+
+qmovie.sip
+file
+
+
+
+add
+
+qgraphicssceneevent.sip
+file
+
+
+
+add
+
+qevent.sip
+file
+
+
+
+add
+
+qprinter.sip
+file
+
+
+
+add
+
+qheaderview.sip
+file
+
+
+
+add
+
+qscrollbar.sip
+file
+
+
+
+add
+
+qcheckbox.sip
+file
+
+
+
+add
+
+qabstractproxymodel.sip
+file
+
+
+
+add
+
+qvector3d.sip
+file
+
+
+
+add
+
+qfocusframe.sip
+file
+
+
+
+add
+
+qsizepolicy.sip
+file
+
+
+
+add
+
+qdrawutil.sip
+file
+
+
+
+add
+
+qtabbar.sip
+file
+
+
+
+add
+
+qgraphicslayout.sip
+file
+
+
+
+add
+
+qdirmodel.sip
+file
+
+
+
+add
+
+qfiledialog.sip
+file
+
+
+
+add
+
+qformlayout.sip
+file
+
+
+
+add
+
+qproxymodel.sip
+file
+
+
+
+add
+
+qfileiconprovider.sip
+file
+
+
+
+add
+
+qmatrix.sip
+file
+
+
+
+add
+
+qmenu.sip
+file
+
+
+
+add
+
+qsyntaxhighlighter.sip
+file
+
+
+
+add
+
+qabstractslider.sip
+file
+
+
+
+add
+
+qgraphicsscene.sip
+file
+
+
+
+add
+
+qinputdialog.sip
+file
+
+
+
+add
+
+qtextdocumentwriter.sip
+file
+
+
+
+add
+
+qkeysequence.sip
+file
+
+
+
+add
+
+qslider.sip
+file
+
+
+
+add
+
+qimage.sip
+file
+
+
+
+add
+
+qpytextobject.sip
+file
+
+
+
+add
+
+qvalidator.sip
+file
+
+
+
+add
+
+qicon.sip
+file
+
+
+
+add
+
+qcommandlinkbutton.sip
+file
+
+
+
+add
+
+qstyleoption.sip
+file
+
+
+
+add
+
+qtreeview.sip
+file
+
+
+
+add
+
+qactiongroup.sip
+file
+
+
+
+add
+
+qtexttable.sip
+file
+
+
+
+add
+
+qpixmap.sip
+file
+
+
+
+add
+
+qx11embed_x11.sip
+file
+
+
+
+add
+
+qabstractprintdialog.sip
+file
+
+
+
+add
+
+qmatrix4x4.sip
+file
+
+
+
+add
+
+qsplitter.sip
+file
+
+
+
+add
+
+qimageiohandler.sip
+file
+
+
+
+add
+
+qlcdnumber.sip
+file
+
+
+
+add
+
+qabstractscrollarea.sip
+file
+
+
+
+add
+
+qtextobject.sip
+file
+
+
+
+add
+
+qgraphicslayoutitem.sip
+file
+
+
+
+add
+
+qplaintextedit.sip
+file
+
+
+
+add
+
+qpen.sip
+file
+
+
+
+add
+
+qfontinfo.sip
+file
+
+
+
+add
+
+qprintengine.sip
+file
+
+
+
+add
+
+qspinbox.sip
+file
+
+
+
+add
+
+qundogroup.sip
+file
+
+
+
+add
+
+qregion.sip
+file
+
+
+
+add
+
+qscrollarea.sip
+file
+
+
+
+add
+
+qcompleter.sip
+file
+
+
+
+add
+
+qframe.sip
+file
+
+
+
+add
+
+qfontdatabase.sip
+file
+
+
+
+add
+
+qlayoutitem.sip
+file
+
+
+
+add
+
+qgraphicstransform.sip
+file
+
+
+
+add
+
+qlineedit.sip
+file
+
+
+
+add
+
+qtreewidget.sip
+file
+
+
+
+add
+
+qmouseeventtransition.sip
+file
+
+
+
+add
+
+qcombobox.sip
+file
+
+
+
+add
+
+qcommonstyle.sip
+file
+
+
+
+add
+
+qsessionmanager.sip
+file
+
+
+
+add
+
+qwhatsthis.sip
+file
+
+
+
+add
+
+qprintpreviewdialog.sip
+file
+
+
+
+add
+
+qgraphicsitem.sip
+file
+
+
+
+add
+
+qtableview.sip
+file
+
+
+
+add
+
+qprogressdialog.sip
+file
+
+
+
+add
+
+qmime.sip
+file
+
+
+
+add
+
+qstylefactory.sip
+file
+
+
+
+add
+
+qvector2d.sip
+file
+
+
+
+add
+
+qbuttongroup.sip
+file
+
+
+
+add
+
+qcolumnview.sip
+file
+
+
+
+add
+
+qgraphicslinearlayout.sip
+file
+
+
+
+add
+
+qgraphicsanchorlayout.sip
+file
+
+
+
+add
+
+qtooltip.sip
+file
+
+
+
+add
+
+qcolordialog.sip
+file
+
+
+
+add
+
+qundoview.sip
+file
+
+
+
+add
+
+qwizard.sip
+file
+
+
+
+add
+
+qgraphicsgridlayout.sip
+file
+
+
+
+add
+
+qinputcontext.sip
+file
+
+
+
+add
+
+qdialogbuttonbox.sip
+file
+
+
+
+add
+
+qgraphicsproxywidget.sip
+file
+
+
+
+add
+
+qdial.sip
+file
+
+
+
+add
+
+qwindowdefs.sip
+file
+
+
+
+add
+
+qpicture.sip
+file
+
+
+
+add
+
+qtransform.sip
+file
+
+
+
+add
+
+qmainwindow.sip
+file
+
+
+
+add
+
+qaction.sip
+file
+
+
+
+add
+
+qdesktopwidget.sip
+file
+
+
+
+add
+
+qabstractitemview.sip
+file
+
+
+
+add
+
+qabstractitemdelegate.sip
+file
+
+
+
+add
+
+qgraphicsitemanimation.sip
+file
+
+
+
+add
+
+qwidgetaction.sip
+file
+
+
+
+add
+
+qwidget.sip
+file
+
+
+
+add
+
+qgridlayout.sip
+file
+
+
+
+add
+
+qdockwidget.sip
+file
+
+
+
+add
+
+qquaternion.sip
+file
+
+
+
+add
+
+qtextbrowser.sip
+file
+
+
+
+add
+
+qitemdelegate.sip
+file
+
+
+
+add
+
+qgraphicsview.sip
+file
+
+
+
+add
+
+qtablewidget.sip
+file
+
+
+
+add
+
+qsystemtrayicon.sip
+file
+
+
+
+add
+
+qworkspace.sip
+file
+
+
+
+add
+
+qerrormessage.sip
+file
+
+
+
+add
+
+qstyle.sip
+file
+
+
+
+add
+
+qpaintengine.sip
+file
+
+
+
+add
+
+qdatetimeedit.sip
+file
+
+
+
+add
+
+qtextoption.sip
+file
+
+
+
+add
+
+qpagesetupdialog.sip
+file
+
+
+
+add
+
+qgraphicseffect.sip
+file
+
+
+
+add
+
+qcursor.sip
+file
+
+
+
+add
+
+qlayout.sip
+file
+
+
+
+add
+
+qx11info_x11.sip
+file
+
+
+
+add
+
+qlabel.sip
+file
+
+
+
+add
+
+qimagewriter.sip
+file
+
+
+
+add
+
+qsortfilterproxymodel.sip
+file
+
+
+
+add
+
+qstringlistmodel.sip
+file
+
+
+
+add
+
+qbrush.sip
+file
+
+
+
+add
+
+qitemselectionmodel.sip
+file
+
+
+
+add
+
+qfontdialog.sip
+file
+
+
+
+add
+
+qtoolbox.sip
+file
+
+
+
+add
+
+qmenubar.sip
+file
+
+
+
+add
+
+qtextedit.sip
+file
+
+
+
+add
+
+qvector4d.sip
+file
+
+
+
+add
+
+qpaintdevice.sip
+file
+
+
+
+add
+
+qundostack.sip
+file
+
+
+
+add
+
+qstatictext.sip
+file
+
+
+
+add
+
+qtreewidgetitemiterator.sip
+file
+
+
+
+add
+
+qfontmetrics.sip
+file
+
+
+
+add
+
+qclipboard.sip
+file
+
+
+
+add
+
+qstandarditemmodel.sip
+file
+
+
+
+add
+
+qfilesystemmodel.sip
+file
+
+
+
+add
+
+qlistview.sip
+file
+
+
+
+add
+
+qabstractspinbox.sip
+file
+
+
+
+add
+
+qrubberband.sip
+file
+
+
+
+add
+
+qprintdialog.sip
+file
+
+
+
+add
+
+qdrag.sip
+file
+
+
+
+add
+
+qdesktopservices.sip
+file
+
+
+
+add
+
+qcolor.sip
+file
+
+
+
+add
+
+qstyleditemdelegate.sip
+file
+
+
+
+add
+
+qgesture.sip
+file
+
+
+
+add
+
+qpainterpath.sip
+file
+
+
+
+add
+
+qstackedwidget.sip
+file
+
+
+
+add
+
+qpixmapcache.sip
+file
+
+
+
+add
+
+qstylepainter.sip
+file
+
+
+
+add
+
+qpolygon.sip
+file
+
+
+
+add
+
+qprogressbar.sip
+file
+
+
+
+add
+
+qsplashscreen.sip
+file
+
+
+
+add
+
+qsizegrip.sip
+file
+
+
+
+add
+
+qinputcontextfactory.sip
+file
+
+
+
+add
+
+qmessagebox.sip
+file
+
+
+
+add
+
+qitemeditorfactory.sip
+file
+
+
+
+add
+
+qpalette.sip
+file
+
+
+
+add
+
+qprinterinfo.sip
+file
+
+
+
+add
+
+qfontcombobox.sip
+file
+
+
+
+add
+
+qpainter.sip
+file
+
+
+
+add
+
+qtoolbar.sip
+file
+
+
+
+add
+
+qgroupbox.sip
+file
+
+
+
+add
+
+qkeyeventtransition.sip
+file
+
+
+
+add
+
+qimagereader.sip
+file
+
+
+
+add
+
+qtoolbutton.sip
+file
+
+
+
+add
+
+qpushbutton.sip
+file
+
+
+
+add
+
+qshortcut.sip
+file
+
+
+
+add
+
+qbitmap.sip
+file
+
+
+
+add
+
+qstackedlayout.sip
+file
+
+
+
+add
+
+qiconengine.sip
+file
+
+
+
+add
+
+qlistwidget.sip
+file
+
+
+
+add
+
+qtextlist.sip
+file
+
+
+
+add
+
+qtextlayout.sip
+file
+
+
+
+add
+
+qtextcursor.sip
+file
+
+
+
+add
+
+qdatawidgetmapper.sip
+file
+
+
+
+add
+
+qtextdocument.sip
+file
+
+
+
+add
+
+qboxlayout.sip
+file
+
+
+
+add
+
+qsound.sip
+file
+
+
+
+add
+
+qradiobutton.sip
+file
+
+
+
+add
+
+qtextformat.sip
+file
+
+
+
+add
+
+qdialog.sip
+file
+
+
+
+add
+
+qabstractbutton.sip
+file
+
+
+
+add
+
+qgenericmatrix.sip
+file
+
+
+
+add
+
+qmdiarea.sip
+file
+
+
+
+add
+
+qprintpreviewwidget.sip
+file
+
+
+
+add
+
+qapplication.sip
+file
+
+
+
+add
+

@@ -1,0 +1,21 @@
+#!/bin/sh
+#
+# CVL run script for GUI applications.
+#
+
+if [ ! -d $HOME/.xmipp ]; then
+    mkdir $HOME/.xmipp
+fi
+
+cd $HOME/.xmipp
+
+module load xmipp
+
+if [ -z "$XMIPP_HOME" ]; then
+    source /usr/local/xmipp/3.0/.xmipp.bashrc
+fi
+
+xmipp_protocols
+
+cd ..
+

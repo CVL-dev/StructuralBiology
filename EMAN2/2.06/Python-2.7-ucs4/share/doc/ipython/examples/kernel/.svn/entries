@@ -1,0 +1,252 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/doc/ipython/examples/kernel
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+wordfreq.py
+file
+
+
+
+add
+
+HISTORY.gz
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+parallel_pylab.ipy
+file
+
+
+
+add
+
+plotting_frontend.py
+file
+
+
+
+add
+
+taskreject.py
+file
+
+
+
+add
+
+asyncmultiengine1.py
+file
+
+
+
+add
+
+taskmap.py
+file
+
+
+
+add
+
+rmtkernel.py
+file
+
+
+
+add
+
+nwmerge.py
+file
+
+
+
+add
+
+task_profiler.py
+file
+
+
+
+add
+
+mcpricer.py
+file
+
+
+
+add
+
+davinci.txt
+file
+
+
+
+add
+
+plotting_backend.py
+file
+
+
+
+add
+
+wordfreq_skel.py
+file
+
+
+
+add
+
+pwordfreq.py
+file
+
+
+
+add
+
+multiengine1.ipy
+file
+
+
+
+add
+
+multiengine2.ipy
+file
+
+
+
+add
+
+mcdriver.py
+file
+
+
+
+add
+
+helloworld.py
+file
+
+
+
+add
+
+rmt.ipy
+file
+
+
+
+add
+
+phistogram.py
+file
+
+
+
+add
+
+multienginemap.py
+file
+
+
+
+add
+
+task1.py
+file
+
+
+
+add
+
+fetchparse.py
+file
+
+
+
+add
+
+davinci0.txt
+file
+
+
+
+add
+
+task2.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+davinci1.txt
+file
+
+
+
+add
+
+davinci2.txt
+file
+
+
+
+add
+
+pwordfreq_skel.py
+file
+
+
+
+add
+
+davinci3.txt
+file
+
+
+
+add
+

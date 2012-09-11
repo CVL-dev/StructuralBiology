@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/doc/ipython/examples/core
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+seteditor.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+example-embed-short.py
+file
+
+
+
+add
+
+new-embed.py
+file
+
+
+
+add
+
+ipy.vim
+file
+
+
+
+add
+
+example-embed.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+ipython_here_shell_extension.reg
+file
+
+
+
+add
+
+display.py
+file
+
+
+
+add
+
+appconfig.py
+file
+
+
+
+add
+
+ipython.desktop
+file
+
+
+
+add
+
+example-demo.py
+file
+
+
+
+add
+
+ipython-qtconsole.desktop
+file
+
+
+
+add
+
+example-gnuplot.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+demo-exercizer.py
+file
+
+
+
+add
+
+ipython-sh.desktop
+file
+
+
+
+add
+
+leo_bridge_demo.leo
+file
+
+
+
+add
+

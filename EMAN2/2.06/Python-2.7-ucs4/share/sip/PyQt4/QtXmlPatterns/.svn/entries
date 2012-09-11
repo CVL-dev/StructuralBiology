@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/sip/PyQt4/QtXmlPatterns
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+qabstracturiresolver.sip
+file
+
+
+
+add
+
+QtXmlPatternsmod.sip
+file
+
+
+
+add
+
+qabstractmessagehandler.sip
+file
+
+
+
+add
+
+qabstractxmlreceiver.sip
+file
+
+
+
+add
+
+qabstractxmlnodemodel.sip
+file
+
+
+
+add
+
+qxmlschema.sip
+file
+
+
+
+add
+
+qxmlformatter.sip
+file
+
+
+
+add
+
+qxmlquery.sip
+file
+
+
+
+add
+
+qxmlschemavalidator.sip
+file
+
+
+
+add
+
+qsourcelocation.sip
+file
+
+
+
+add
+
+qxmlserializer.sip
+file
+
+
+
+add
+
+qxmlnamepool.sip
+file
+
+
+
+add
+
+qxmlresultitems.sip
+file
+
+
+
+add
+
+qxmlname.sip
+file
+
+
+
+add
+
+qsimplexmlnodemodel.sip
+file
+
+
+
+add
+

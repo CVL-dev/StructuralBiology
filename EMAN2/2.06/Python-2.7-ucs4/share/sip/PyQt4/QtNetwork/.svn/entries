@@ -1,0 +1,252 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/sip/PyQt4/QtNetwork
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+qsslcertificate.sip
+file
+
+
+
+add
+
+qnetworkinterface.sip
+file
+
+
+
+add
+
+qsslsocket.sip
+file
+
+
+
+add
+
+qnetworkconfigmanager.sip
+file
+
+
+
+add
+
+qsslerror.sip
+file
+
+
+
+add
+
+QtNetworkmod.sip
+file
+
+
+
+add
+
+qurlinfo.sip
+file
+
+
+
+add
+
+qhttp.sip
+file
+
+
+
+add
+
+qnetworkcookiejar.sip
+file
+
+
+
+add
+
+qlocalserver.sip
+file
+
+
+
+add
+
+qhostaddress.sip
+file
+
+
+
+add
+
+qnetworkcookie.sip
+file
+
+
+
+add
+
+qnetworkdiskcache.sip
+file
+
+
+
+add
+
+qsslconfiguration.sip
+file
+
+
+
+add
+
+qnetworkproxy.sip
+file
+
+
+
+add
+
+qsslcipher.sip
+file
+
+
+
+add
+
+qudpsocket.sip
+file
+
+
+
+add
+
+qabstractnetworkcache.sip
+file
+
+
+
+add
+
+qssl.sip
+file
+
+
+
+add
+
+qlocalsocket.sip
+file
+
+
+
+add
+
+qnetworkreply.sip
+file
+
+
+
+add
+
+qnetworkaccessmanager.sip
+file
+
+
+
+add
+
+qauthenticator.sip
+file
+
+
+
+add
+
+qsslkey.sip
+file
+
+
+
+add
+
+qabstractsocket.sip
+file
+
+
+
+add
+
+qtcpserver.sip
+file
+
+
+
+add
+
+qnetworkconfiguration.sip
+file
+
+
+
+add
+
+qftp.sip
+file
+
+
+
+add
+
+qhostinfo.sip
+file
+
+
+
+add
+
+qnetworksession.sip
+file
+
+
+
+add
+
+qtcpsocket.sip
+file
+
+
+
+add
+
+qnetworkrequest.sip
+file
+
+
+
+add
+

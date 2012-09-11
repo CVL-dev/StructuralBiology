@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/sip/PyQt4/QtHelp
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+qhelpsearchengine.sip
+file
+
+
+
+add
+
+qhelpindexwidget.sip
+file
+
+
+
+add
+
+qhelpcontentwidget.sip
+file
+
+
+
+add
+
+qhelpenginecore.sip
+file
+
+
+
+add
+
+qhelpsearchquerywidget.sip
+file
+
+
+
+add
+
+QtHelpmod.sip
+file
+
+
+
+add
+
+qhelpengine.sip
+file
+
+
+
+add
+
+qhelpsearchresultwidget.sip
+file
+
+
+
+add
+

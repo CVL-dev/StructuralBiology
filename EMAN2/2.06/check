@@ -1,0 +1,32 @@
+#!/bin/sh
+#
+# CVL build system to check or configure building process after installation.
+#
+
+SOURCE_DIR=$1
+BUILD_DIR=$2
+INSTALL_DIR=$3
+
+if [ ! -d ${INSTALL_DIR}/bin ]; then
+    mkdir ${INSTALL_DIR}/bin
+fi
+
+cp -r ${BUILD_DIR}/programs/* ${INSTALL_DIR}/bin
+cp -r ${BUILD_DIR}/lib ${INSTALL_DIR}
+cp -r ${BUILD_DIR}/images ${INSTALL_DIR}
+cp -r ${BUILD_DIR}/fonts ${INSTALL_DIR}
+cp -r ${BUILD_DIR}/doc ${INSTALL_DIR}
+cp -r ${BUILD_DIR}/mpi_eman ${INSTALL_DIR}
+
+if [ ! -d ${INSTALL_DIR}/Python-2.7-ucs4 ]; then
+    cp -r ${SOURCE_DIR}/Python-2.7-ucs4 ${INSTALL_DIR}
+fi
+
+if [ ! -h ${INSTALL_DIR}/Python ]; then
+    ln -s Python-2.7-ucs4 ${INSTALL_DIR}/Python
+fi
+
+cp ${SOURCE_DIR}/tutorial ${INSTALL_DIR}/bin
+cp ${SOURCE_DIR}/workflow ${INSTALL_DIR}/bin
+
+cp -fr ${SOURCE_DIR}/lib/* ${INSTALL_DIR}/lib

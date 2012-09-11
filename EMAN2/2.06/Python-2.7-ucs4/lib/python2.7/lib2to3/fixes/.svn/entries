@@ -1,0 +1,392 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/lib/python2.7/lib2to3/fixes
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+fix_dict.py
+file
+
+
+
+add
+
+fix_has_key.py
+file
+
+
+
+add
+
+fix_idioms.py
+file
+
+
+
+add
+
+fix_exec.py
+file
+
+
+
+add
+
+fix_urllib.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+fix_nonzero.py
+file
+
+
+
+add
+
+fix_print.py
+file
+
+
+
+add
+
+fix_imports.py
+file
+
+
+
+add
+
+fix_input.py
+file
+
+
+
+add
+
+fix_numliterals.py
+file
+
+
+
+add
+
+fix_itertools_imports.py
+file
+
+
+
+add
+
+fix_getcwdu.py
+file
+
+
+
+add
+
+fix_zip.py
+file
+
+
+
+add
+
+fix_raise.py
+file
+
+
+
+add
+
+fix_throw.py
+file
+
+
+
+add
+
+fix_types.py
+file
+
+
+
+add
+
+fix_ws_comma.py
+file
+
+
+
+add
+
+fix_paren.py
+file
+
+
+
+add
+
+fix_reduce.py
+file
+
+
+
+add
+
+fix_repr.py
+file
+
+
+
+add
+
+fix_raw_input.py
+file
+
+
+
+add
+
+fix_funcattrs.py
+file
+
+
+
+add
+
+fix_buffer.py
+file
+
+
+
+add
+
+fix_standarderror.py
+file
+
+
+
+add
+
+fix_import.py
+file
+
+
+
+add
+
+fix_map.py
+file
+
+
+
+add
+
+fix_next.py
+file
+
+
+
+add
+
+fix_itertools.py
+file
+
+
+
+add
+
+fix_xrange.py
+file
+
+
+
+add
+
+fix_execfile.py
+file
+
+
+
+add
+
+fix_apply.py
+file
+
+
+
+add
+
+fix_exitfunc.py
+file
+
+
+
+add
+
+fix_filter.py
+file
+
+
+
+add
+
+fix_unicode.py
+file
+
+
+
+add
+
+fix_except.py
+file
+
+
+
+add
+
+fix_renames.py
+file
+
+
+
+add
+
+fix_operator.py
+file
+
+
+
+add
+
+fix_tuple_params.py
+file
+
+
+
+add
+
+fix_methodattrs.py
+file
+
+
+
+add
+
+fix_xreadlines.py
+file
+
+
+
+add
+
+fix_long.py
+file
+
+
+
+add
+
+fix_callable.py
+file
+
+
+
+add
+
+fix_intern.py
+file
+
+
+
+add
+
+fix_isinstance.py
+file
+
+
+
+add
+
+fix_basestring.py
+file
+
+
+
+add
+
+fix_ne.py
+file
+
+
+
+add
+
+fix_set_literal.py
+file
+
+
+
+add
+
+fix_future.py
+file
+
+
+
+add
+
+fix_metaclass.py
+file
+
+
+
+add
+
+fix_sys_exc.py
+file
+
+
+
+add
+
+fix_imports2.py
+file
+
+
+
+add
+

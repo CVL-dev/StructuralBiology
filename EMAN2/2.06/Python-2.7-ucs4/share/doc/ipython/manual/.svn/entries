@@ -1,0 +1,189 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/doc/ipython/manual
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+development
+dir
+
+
+
+add
+
+_sources
+dir
+
+
+
+add
+
+objects.inv
+file
+
+
+
+add
+
+_static
+dir
+
+
+
+add
+
+.buildinfo
+file
+
+
+
+add
+
+_downloads
+dir
+
+
+
+add
+
+parallel
+dir
+
+
+
+add
+
+whatsnew
+dir
+
+
+
+add
+
+py-modindex.html
+file
+
+
+
+add
+
+ipython.pdf
+file
+
+
+
+add
+
+html
+dir
+
+
+
+add
+
+attic
+dir
+
+
+
+add
+
+genindex.html
+file
+
+
+
+add
+
+_images
+dir
+
+
+
+add
+
+config
+dir
+
+
+
+add
+
+install
+dir
+
+
+
+add
+
+search.html
+file
+
+
+
+add
+
+searchindex.js
+file
+
+
+
+add
+
+overview.html
+file
+
+
+
+add
+
+api
+dir
+
+
+
+add
+
+about
+dir
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+interactive
+dir
+
+
+
+add
+

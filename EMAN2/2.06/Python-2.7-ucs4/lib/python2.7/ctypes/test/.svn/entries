@@ -1,0 +1,399 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/lib/python2.7/ctypes/test
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+test_cast.py
+file
+
+
+
+add
+
+test_buffers.py
+file
+
+
+
+add
+
+test_sizes.py
+file
+
+
+
+add
+
+test_byteswap.py
+file
+
+
+
+add
+
+test_delattr.py
+file
+
+
+
+add
+
+test_internals.py
+file
+
+
+
+add
+
+test_incomplete.py
+file
+
+
+
+add
+
+test_pickling.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+test_arrays.py
+file
+
+
+
+add
+
+test_pep3118.py
+file
+
+
+
+add
+
+test_pointers.py
+file
+
+
+
+add
+
+test_parameters.py
+file
+
+
+
+add
+
+test_array_in_pointer.py
+file
+
+
+
+add
+
+test_bitfields.py
+file
+
+
+
+add
+
+test_repr.py
+file
+
+
+
+add
+
+test_unaligned_structures.py
+file
+
+
+
+add
+
+test_libc.py
+file
+
+
+
+add
+
+test_python_api.py
+file
+
+
+
+add
+
+test_loading.py
+file
+
+
+
+add
+
+test_macholib.py
+file
+
+
+
+add
+
+test_callbacks.py
+file
+
+
+
+add
+
+test_funcptr.py
+file
+
+
+
+add
+
+test_simplesubclasses.py
+file
+
+
+
+add
+
+test_cfuncs.py
+file
+
+
+
+add
+
+test_structures.py
+file
+
+
+
+add
+
+test_errcheck.py
+file
+
+
+
+add
+
+test_objects.py
+file
+
+
+
+add
+
+test_strings.py
+file
+
+
+
+add
+
+test_anon.py
+file
+
+
+
+add
+
+test_checkretval.py
+file
+
+
+
+add
+
+test_stringptr.py
+file
+
+
+
+add
+
+test_random_things.py
+file
+
+
+
+add
+
+test_frombuffer.py
+file
+
+
+
+add
+
+test_values.py
+file
+
+
+
+add
+
+test_win32.py
+file
+
+
+
+add
+
+test_init.py
+file
+
+
+
+add
+
+test_as_parameter.py
+file
+
+
+
+add
+
+test_returnfuncptrs.py
+file
+
+
+
+add
+
+test_keeprefs.py
+file
+
+
+
+add
+
+test_memfunctions.py
+file
+
+
+
+add
+
+test_functions.py
+file
+
+
+
+add
+
+test_refcounts.py
+file
+
+
+
+add
+
+test_struct_fields.py
+file
+
+
+
+add
+
+test_numbers.py
+file
+
+
+
+add
+
+test_integers.py
+file
+
+
+
+add
+
+test_find.py
+file
+
+
+
+add
+
+test_errno.py
+file
+
+
+
+add
+
+test_unicode.py
+file
+
+
+
+add
+
+test_varsize_struct.py
+file
+
+
+
+add
+
+test_prototypes.py
+file
+
+
+
+add
+
+test_slicing.py
+file
+
+
+
+add
+
+runtests.py
+file
+
+
+
+add
+

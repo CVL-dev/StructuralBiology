@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/cvl/!svn/ver/349/MasterBuild/trunk/SPIDER/20.12
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/cvl/!svn/ver/349/MasterBuild/trunk/SPIDER/20.12/config
+END
+spiderweb.20.12.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cvl/!svn/ver/349/MasterBuild/trunk/SPIDER/20.12/spiderweb.20.12.tar.gz
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/cvl/!svn/ver/349/MasterBuild/trunk/SPIDER/20.12/CMakeLists.txt
+END
+check
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/cvl/!svn/ver/349/MasterBuild/trunk/SPIDER/20.12/check
+END
+document
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/cvl/!svn/ver/349/MasterBuild/trunk/SPIDER/20.12/document
+END

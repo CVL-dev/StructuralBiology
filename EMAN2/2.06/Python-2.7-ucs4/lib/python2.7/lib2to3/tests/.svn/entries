@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/lib/python2.7/lib2to3/tests
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+pytree_idempotency.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_parser.py
+file
+
+
+
+add
+
+support.py
+file
+
+
+
+add
+
+test_util.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+test_fixers.py
+file
+
+
+
+add
+
+data
+dir
+
+
+
+add
+
+test_main.py
+file
+
+
+
+add
+
+test_refactor.py
+file
+
+
+
+add
+
+test_all_fixers.py
+file
+
+
+
+add
+
+test_pytree.py
+file
+
+
+
+add
+

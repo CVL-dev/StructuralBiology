@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/sip/PyQt4/QtTest
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+qtestsystem.sip
+file
+
+
+
+add
+
+qtestmouse.sip
+file
+
+
+
+add
+
+qtestcase.sip
+file
+
+
+
+add
+
+qtestkeyboard.sip
+file
+
+
+
+add
+
+QtTestmod.sip
+file
+
+
+
+add
+

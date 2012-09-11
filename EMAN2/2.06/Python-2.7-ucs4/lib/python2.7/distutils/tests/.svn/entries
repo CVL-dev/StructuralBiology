@@ -1,0 +1,343 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/lib/python2.7/distutils/tests
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+test_msvc9compiler.py
+file
+
+
+
+add
+
+test_install_lib.py
+file
+
+
+
+add
+
+test_install_data.py
+file
+
+
+
+add
+
+test_build.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+test_install_headers.py
+file
+
+
+
+add
+
+test_dist.py
+file
+
+
+
+add
+
+test_bdist.py
+file
+
+
+
+add
+
+test_dep_util.py
+file
+
+
+
+add
+
+test_versionpredicate.py
+file
+
+
+
+add
+
+test_dir_util.py
+file
+
+
+
+add
+
+test_install_scripts.py
+file
+
+
+
+add
+
+test_ccompiler.py
+file
+
+
+
+add
+
+test_archive_util.py
+file
+
+
+
+add
+
+test_build_ext.py
+file
+
+
+
+add
+
+test_bdist_wininst.py
+file
+
+
+
+add
+
+test_unixccompiler.py
+file
+
+
+
+add
+
+setuptools_build_ext.py
+file
+
+
+
+add
+
+test_clean.py
+file
+
+
+
+add
+
+test_bdist_rpm.py
+file
+
+
+
+add
+
+test_register.py
+file
+
+
+
+add
+
+test_upload.py
+file
+
+
+
+add
+
+test_core.py
+file
+
+
+
+add
+
+test_config_cmd.py
+file
+
+
+
+add
+
+Setup.sample
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_cmd.py
+file
+
+
+
+add
+
+test_sysconfig.py
+file
+
+
+
+add
+
+test_config.py
+file
+
+
+
+add
+
+test_install.py
+file
+
+
+
+add
+
+test_build_scripts.py
+file
+
+
+
+add
+
+test_build_py.py
+file
+
+
+
+add
+
+test_filelist.py
+file
+
+
+
+add
+
+test_bdist_dumb.py
+file
+
+
+
+add
+
+test_file_util.py
+file
+
+
+
+add
+
+test_check.py
+file
+
+
+
+add
+
+support.py
+file
+
+
+
+add
+
+test_bdist_msi.py
+file
+
+
+
+add
+
+test_util.py
+file
+
+
+
+add
+
+setuptools_extension.py
+file
+
+
+
+add
+
+test_text_file.py
+file
+
+
+
+add
+
+test_version.py
+file
+
+
+
+add
+
+test_sdist.py
+file
+
+
+
+add
+
+test_spawn.py
+file
+
+
+
+add
+
+test_build_clib.py
+file
+
+
+
+add
+

@@ -1,0 +1,5 @@
+#!/home/eman64/Python/bin/python
+# EASY-INSTALL-SCRIPT: 'Markdown==2.0.3','markdown'
+__requires__ = 'Markdown==2.0.3'
+import pkg_resources
+pkg_resources.run_script('Markdown==2.0.3', 'markdown')

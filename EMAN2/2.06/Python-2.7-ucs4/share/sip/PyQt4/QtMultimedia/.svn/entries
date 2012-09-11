@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/sip/PyQt4/QtMultimedia
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+qabstractvideobuffer.sip
+file
+
+
+
+add
+
+qvideosurfaceformat.sip
+file
+
+
+
+add
+
+qaudioformat.sip
+file
+
+
+
+add
+
+qaudiodeviceinfo.sip
+file
+
+
+
+add
+
+QtMultimediamod.sip
+file
+
+
+
+add
+
+qaudioinput.sip
+file
+
+
+
+add
+
+qaudio.sip
+file
+
+
+
+add
+
+qvideoframe.sip
+file
+
+
+
+add
+
+qaudiooutput.sip
+file
+
+
+
+add
+
+qabstractvideosurface.sip
+file
+
+
+
+add
+

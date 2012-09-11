@@ -1,0 +1,9 @@
+#!/home/eman64/Python/bin/python
+
+"""Thin wrapper around the IPython irunner module.
+
+Run with --help for details, or see the irunner source."""
+
+from IPython import irunner
+
+irunner.main()

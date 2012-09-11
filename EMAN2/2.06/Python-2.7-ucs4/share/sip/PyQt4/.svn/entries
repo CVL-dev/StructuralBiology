@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/sip/PyQt4
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+Qt
+dir
+
+
+
+add
+
+QtTest
+dir
+
+
+
+add
+
+QtXmlPatterns
+dir
+
+
+
+add
+
+QtDeclarative
+dir
+
+
+
+add
+
+QtOpenGL
+dir
+
+
+
+add
+
+QtGui
+dir
+
+
+
+add
+
+QtScriptTools
+dir
+
+
+
+add
+
+QtWebKit
+dir
+
+
+
+add
+
+QtHelp
+dir
+
+
+
+add
+
+QtCore
+dir
+
+
+
+add
+
+QtNetwork
+dir
+
+
+
+add
+
+QtMultimedia
+dir
+
+
+
+add
+
+QtSvg
+dir
+
+
+
+add
+
+QtSql
+dir
+
+
+
+add
+
+QtXml
+dir
+
+
+
+add
+
+QtDesigner
+dir
+
+
+
+add
+
+QtScript
+dir
+
+
+
+add
+

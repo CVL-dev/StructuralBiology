@@ -1,0 +1,903 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/doc/ipython/manual/_sources/api/generated
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+IPython.testing.skipdoctest.txt
+file
+
+
+
+add
+
+IPython.testing.plugin.show_refs.txt
+file
+
+
+
+add
+
+IPython.utils.daemonize.txt
+file
+
+
+
+add
+
+IPython.parallel.apps.ipcontrollerapp.txt
+file
+
+
+
+add
+
+IPython.utils.traitlets.txt
+file
+
+
+
+add
+
+IPython.config.loader.txt
+file
+
+
+
+add
+
+IPython.testing.tools.txt
+file
+
+
+
+add
+
+IPython.core.displayhook.txt
+file
+
+
+
+add
+
+IPython.parallel.engine.kernelstarter.txt
+file
+
+
+
+add
+
+IPython.parallel.controller.sqlitedb.txt
+file
+
+
+
+add
+
+IPython.utils.strdispatch.txt
+file
+
+
+
+add
+
+IPython.core.profileapp.txt
+file
+
+
+
+add
+
+IPython.utils.wildcard.txt
+file
+
+
+
+add
+
+IPython.core.application.txt
+file
+
+
+
+add
+
+IPython.parallel.engine.streamkernel.txt
+file
+
+
+
+add
+
+IPython.core.magic_arguments.txt
+file
+
+
+
+add
+
+IPython.utils.generics.txt
+file
+
+
+
+add
+
+IPython.lib.latextools.txt
+file
+
+
+
+add
+
+IPython.utils.decorators.txt
+file
+
+
+
+add
+
+IPython.utils.jsonutil.txt
+file
+
+
+
+add
+
+IPython.parallel.controller.dictdb.txt
+file
+
+
+
+add
+
+IPython.utils.warn.txt
+file
+
+
+
+add
+
+IPython.core.completerlib.txt
+file
+
+
+
+add
+
+IPython.utils.data.txt
+file
+
+
+
+add
+
+IPython.utils.terminal.txt
+file
+
+
+
+add
+
+IPython.core.oinspect.txt
+file
+
+
+
+add
+
+IPython.core.formatters.txt
+file
+
+
+
+add
+
+IPython.core.payloadpage.txt
+file
+
+
+
+add
+
+IPython.core.completer.txt
+file
+
+
+
+add
+
+IPython.core.display_trap.txt
+file
+
+
+
+add
+
+IPython.core.prefilter.txt
+file
+
+
+
+add
+
+IPython.testing.ipunittest.txt
+file
+
+
+
+add
+
+IPython.core.excolors.txt
+file
+
+
+
+add
+
+IPython.lib.guisupport.txt
+file
+
+
+
+add
+
+IPython.utils.timing.txt
+file
+
+
+
+add
+
+IPython.core.history.txt
+file
+
+
+
+add
+
+IPython.utils.pickleshare.txt
+file
+
+
+
+add
+
+IPython.lib.demo.txt
+file
+
+
+
+add
+
+IPython.parallel.controller.hub.txt
+file
+
+
+
+add
+
+IPython.core.prompts.txt
+file
+
+
+
+add
+
+IPython.utils.path.txt
+file
+
+
+
+add
+
+IPython.lib.pretty.txt
+file
+
+
+
+add
+
+IPython.testing.plugin.dtexample.txt
+file
+
+
+
+add
+
+IPython.core.interactiveshell.txt
+file
+
+
+
+add
+
+IPython.parallel.apps.ipengineapp.txt
+file
+
+
+
+add
+
+IPython.testing.mkdoctests.txt
+file
+
+
+
+add
+
+IPython.core.display.txt
+file
+
+
+
+add
+
+IPython.utils.dir2.txt
+file
+
+
+
+add
+
+IPython.utils.autoattr.txt
+file
+
+
+
+add
+
+IPython.parallel.factory.txt
+file
+
+
+
+add
+
+IPython.core.page.txt
+file
+
+
+
+add
+
+IPython.core.ultratb.txt
+file
+
+
+
+add
+
+IPython.utils.io.txt
+file
+
+
+
+add
+
+IPython.parallel.apps.iploggerapp.txt
+file
+
+
+
+add
+
+IPython.testing.globalipapp.txt
+file
+
+
+
+add
+
+IPython.core.magic.txt
+file
+
+
+
+add
+
+IPython.config.application.txt
+file
+
+
+
+add
+
+IPython.parallel.apps.baseapp.txt
+file
+
+
+
+add
+
+IPython.lib.deepreload.txt
+file
+
+
+
+add
+
+IPython.core.debugger.txt
+file
+
+
+
+add
+
+IPython.utils.process.txt
+file
+
+
+
+add
+
+IPython.core.inputsplitter.txt
+file
+
+
+
+add
+
+IPython.testing.txt
+file
+
+
+
+add
+
+IPython.core.error.txt
+file
+
+
+
+add
+
+IPython.parallel.apps.winhpcjob.txt
+file
+
+
+
+add
+
+IPython.parallel.client.view.txt
+file
+
+
+
+add
+
+IPython.utils.text.txt
+file
+
+
+
+add
+
+IPython.core.builtin_trap.txt
+file
+
+
+
+add
+
+IPython.parallel.client.asyncresult.txt
+file
+
+
+
+add
+
+IPython.utils.notification.txt
+file
+
+
+
+add
+
+IPython.core.plugin.txt
+file
+
+
+
+add
+
+IPython.lib.inputhook.txt
+file
+
+
+
+add
+
+IPython.utils.upgradedir.txt
+file
+
+
+
+add
+
+IPython.core.extensions.txt
+file
+
+
+
+add
+
+IPython.lib.irunner.txt
+file
+
+
+
+add
+
+IPython.utils.coloransi.txt
+file
+
+
+
+add
+
+IPython.utils.sysinfo.txt
+file
+
+
+
+add
+
+IPython.core.ipapi.txt
+file
+
+
+
+add
+
+IPython.utils.growl.txt
+file
+
+
+
+add
+
+IPython.core.autocall.txt
+file
+
+
+
+add
+
+IPython.parallel.controller.scheduler.txt
+file
+
+
+
+add
+
+IPython.utils.doctestreload.txt
+file
+
+
+
+add
+
+IPython.parallel.apps.logwatcher.txt
+file
+
+
+
+add
+
+IPython.lib.pylabtools.txt
+file
+
+
+
+add
+
+IPython.parallel.apps.launcher.txt
+file
+
+
+
+add
+
+IPython.core.shellapp.txt
+file
+
+
+
+add
+
+IPython.utils.syspathcontext.txt
+file
+
+
+
+add
+
+IPython.core.compilerop.txt
+file
+
+
+
+add
+
+IPython.lib.backgroundjobs.txt
+file
+
+
+
+add
+
+IPython.core.splitinput.txt
+file
+
+
+
+add
+
+IPython.testing.plugin.simple.txt
+file
+
+
+
+add
+
+IPython.core.displaypub.txt
+file
+
+
+
+add
+
+IPython.utils.pickleutil.txt
+file
+
+
+
+add
+
+IPython.utils.newserialized.txt
+file
+
+
+
+add
+
+IPython.parallel.util.txt
+file
+
+
+
+add
+
+IPython.parallel.apps.ipclusterapp.txt
+file
+
+
+
+add
+
+IPython.parallel.client.remotefunction.txt
+file
+
+
+
+add
+
+IPython.core.hooks.txt
+file
+
+
+
+add
+
+IPython.utils.ipstruct.txt
+file
+
+
+
+add
+
+IPython.core.payload.txt
+file
+
+
+
+add
+
+gen.txt
+file
+
+
+
+add
+
+IPython.core.alias.txt
+file
+
+
+
+add
+
+IPython.testing.decorators.txt
+file
+
+
+
+add
+
+IPython.parallel.error.txt
+file
+
+
+
+add
+
+IPython.testing.iptest.txt
+file
+
+
+
+add
+
+IPython.core.crashhandler.txt
+file
+
+
+
+add
+
+IPython.parallel.client.map.txt
+file
+
+
+
+add
+
+IPython.parallel.client.client.txt
+file
+
+
+
+add
+
+IPython.core.profiledir.txt
+file
+
+
+
+add
+
+IPython.parallel.controller.heartmonitor.txt
+file
+
+
+
+add
+
+IPython.core.macro.txt
+file
+
+
+
+add
+
+IPython.utils.frame.txt
+file
+
+
+
+add
+
+IPython.parallel.controller.dependency.txt
+file
+
+
+
+add
+
+IPython.parallel.apps.win32support.txt
+file
+
+
+
+add
+
+IPython.utils.PyColorize.txt
+file
+
+
+
+add
+
+IPython.testing.nosepatch.txt
+file
+
+
+
+add
+
+IPython.utils.importstring.txt
+file
+
+
+
+add
+
+IPython.utils.attic.txt
+file
+
+
+
+add
+
+IPython.config.configurable.txt
+file
+
+
+
+add
+
+IPython.lib.clipboard.txt
+file
+
+
+
+add
+
+IPython.parallel.engine.engine.txt
+file
+
+
+
+add
+
+IPython.testing.plugin.test_ipdoctest.txt
+file
+
+
+
+add
+
+IPython.core.logger.txt
+file
+
+
+
+add
+
+IPython.utils.codeutil.txt
+file
+
+
+
+add
+
+IPython.testing.plugin.test_refs.txt
+file
+
+
+
+add
+

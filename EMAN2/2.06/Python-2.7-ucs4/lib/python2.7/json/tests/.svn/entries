@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/lib/python2.7/json/tests
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+test_pass3.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+test_check_circular.py
+file
+
+
+
+add
+
+test_float.py
+file
+
+
+
+add
+
+test_dump.py
+file
+
+
+
+add
+
+test_recursion.py
+file
+
+
+
+add
+
+test_scanstring.py
+file
+
+
+
+add
+
+test_fail.py
+file
+
+
+
+add
+
+test_indent.py
+file
+
+
+
+add
+
+test_separators.py
+file
+
+
+
+add
+
+test_decode.py
+file
+
+
+
+add
+
+test_default.py
+file
+
+
+
+add
+
+test_unicode.py
+file
+
+
+
+add
+
+test_encode_basestring_ascii.py
+file
+
+
+
+add
+
+test_pass1.py
+file
+
+
+
+add
+
+test_pass2.py
+file
+
+
+
+add
+
+test_speedups.py
+file
+
+
+
+add
+

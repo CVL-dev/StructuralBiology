@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/sip/PyQt4/QtSql
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+qsqldatabase.sip
+file
+
+
+
+add
+
+qsqlquery.sip
+file
+
+
+
+add
+
+qsqlrelationaldelegate.sip
+file
+
+
+
+add
+
+qsqlquerymodel.sip
+file
+
+
+
+add
+
+qsqlindex.sip
+file
+
+
+
+add
+
+qsqltablemodel.sip
+file
+
+
+
+add
+
+qsqlerror.sip
+file
+
+
+
+add
+
+qsqldriver.sip
+file
+
+
+
+add
+
+qsqlrecord.sip
+file
+
+
+
+add
+
+qsqlresult.sip
+file
+
+
+
+add
+
+qsql.sip
+file
+
+
+
+add
+
+QtSqlmod.sip
+file
+
+
+
+add
+
+qsqlfield.sip
+file
+
+
+
+add
+
+qsqlrelationaltablemodel.sip
+file
+
+
+
+add
+

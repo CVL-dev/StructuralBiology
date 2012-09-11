@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/lib/python2.7/lib2to3/pgen2
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+tokenize.py
+file
+
+
+
+add
+
+pgen.py
+file
+
+
+
+add
+
+parse.py
+file
+
+
+
+add
+
+driver.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+literals.py
+file
+
+
+
+add
+
+token.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+conv.py
+file
+
+
+
+add
+
+grammar.py
+file
+
+
+
+add
+

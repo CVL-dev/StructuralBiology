@@ -1,0 +1,952 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/doc/ipython/manual/html/api/generated
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+IPython.kernel.controllerservice.html
+file
+
+
+
+add
+
+IPython.external.argparse.html
+file
+
+
+
+add
+
+IPython.kernel.taskfc.html
+file
+
+
+
+add
+
+IPython.prefilter.html
+file
+
+
+
+add
+
+IPython.kernel.enginefc.html
+file
+
+
+
+add
+
+IPython.kernel.twistedutil.html
+file
+
+
+
+add
+
+IPython.frontend.wx.wx_frontend.html
+file
+
+
+
+add
+
+IPython.external.pretty.html
+file
+
+
+
+add
+
+IPython.kernel.core.interpreter.html
+file
+
+
+
+add
+
+IPython.shellglobals.html
+file
+
+
+
+add
+
+IPython.external.path.html
+file
+
+
+
+add
+
+IPython.numutils.html
+file
+
+
+
+add
+
+IPython.kernel.task.html
+file
+
+
+
+add
+
+IPython.hooks.html
+file
+
+
+
+add
+
+IPython.OInspect.html
+file
+
+
+
+add
+
+IPython.OutputTrap.html
+file
+
+
+
+add
+
+IPython.external.Itpl.html
+file
+
+
+
+add
+
+IPython.testing.mkdoctests.html
+file
+
+
+
+add
+
+IPython.testing.plugin.dtexample.html
+file
+
+
+
+add
+
+IPython.ConfigLoader.html
+file
+
+
+
+add
+
+IPython.frontend.wx.ipythonx.html
+file
+
+
+
+add
+
+IPython.excolors.html
+file
+
+
+
+add
+
+IPython.CrashHandler.html
+file
+
+
+
+add
+
+IPython.tools.utils.html
+file
+
+
+
+add
+
+IPython.frontend.linefrontendbase.html
+file
+
+
+
+add
+
+IPython.Prompts.html
+file
+
+
+
+add
+
+IPython.kernel.core.sync_traceback_trap.html
+file
+
+
+
+add
+
+IPython.Itpl.html
+file
+
+
+
+add
+
+IPython.ultraTB.html
+file
+
+
+
+add
+
+IPython.Logger.html
+file
+
+
+
+add
+
+IPython.kernel.newserialized.html
+file
+
+
+
+add
+
+IPython.kernel.pickleutil.html
+file
+
+
+
+add
+
+IPython.upgrade_dir.html
+file
+
+
+
+add
+
+IPython.kernel.codeutil.html
+file
+
+
+
+add
+
+IPython.completer.html
+file
+
+
+
+add
+
+IPython.kernel.core.notification.html
+file
+
+
+
+add
+
+IPython.clipboard.html
+file
+
+
+
+add
+
+IPython.kernel.core.error.html
+file
+
+
+
+add
+
+IPython.kernel.clientinterfaces.html
+file
+
+
+
+add
+
+IPython.kernel.mapper.html
+file
+
+
+
+add
+
+IPython.testing.parametric.html
+file
+
+
+
+add
+
+IPython.kernel.pendingdeferred.html
+file
+
+
+
+add
+
+IPython.gui.wx.ipython_view.html
+file
+
+
+
+add
+
+IPython.UserConfig.ipy_user_conf.html
+file
+
+
+
+add
+
+IPython.testing.plugin.test_refs.html
+file
+
+
+
+add
+
+IPython.kernel.core.prompts.html
+file
+
+
+
+add
+
+IPython.external.validate.html
+file
+
+
+
+add
+
+IPython.winconsole.html
+file
+
+
+
+add
+
+gen.html
+file
+
+
+
+add
+
+IPython.testing.iptest.html
+file
+
+
+
+add
+
+IPython.Debugger.html
+file
+
+
+
+add
+
+IPython.frontend.asyncfrontendbase.html
+file
+
+
+
+add
+
+IPython.ColorANSI.html
+file
+
+
+
+add
+
+IPython.kernel.multiengineclient.html
+file
+
+
+
+add
+
+IPython.iplib.html
+file
+
+
+
+add
+
+IPython.ipapi.html
+file
+
+
+
+add
+
+IPython.deep_reload.html
+file
+
+
+
+add
+
+IPython.gui.wx.ipshell_nonblocking.html
+file
+
+
+
+add
+
+IPython.kernel.engineservice.html
+file
+
+
+
+add
+
+IPython.kernel.core.macro.html
+file
+
+
+
+add
+
+IPython.kernel.error.html
+file
+
+
+
+add
+
+IPython.testing.plugin.show_refs.html
+file
+
+
+
+add
+
+IPython.kernel.core.traceback_trap.html
+file
+
+
+
+add
+
+IPython.testing.tools.html
+file
+
+
+
+add
+
+IPython.ipstruct.html
+file
+
+
+
+add
+
+IPython.DPyGetOpt.html
+file
+
+
+
+add
+
+IPython.kernel.taskclient.html
+file
+
+
+
+add
+
+IPython.testing.decorators.html
+file
+
+
+
+add
+
+IPython.kernel.parallelfunction.html
+file
+
+
+
+add
+
+IPython.kernel.scripts.ipcontroller.html
+file
+
+
+
+add
+
+IPython.external.mglob.html
+file
+
+
+
+add
+
+IPython.twshell.html
+file
+
+
+
+add
+
+IPython.frontend.frontendbase.html
+file
+
+
+
+add
+
+IPython.ipmaker.html
+file
+
+
+
+add
+
+IPython.kernel.core.file_like.html
+file
+
+
+
+add
+
+IPython.tools.growl.html
+file
+
+
+
+add
+
+IPython.kernel.client.html
+file
+
+
+
+add
+
+IPython.kernel.core.display_formatter.html
+file
+
+
+
+add
+
+IPython.PyColorize.html
+file
+
+
+
+add
+
+IPython.kernel.multiengine.html
+file
+
+
+
+add
+
+IPython.kernel.core.display_trap.html
+file
+
+
+
+add
+
+IPython.testing.plugin.simple.html
+file
+
+
+
+add
+
+IPython.platutils_win32.html
+file
+
+
+
+add
+
+IPython.kernel.fcutil.html
+file
+
+
+
+add
+
+IPython.config.cutils.html
+file
+
+
+
+add
+
+IPython.testing.decorators_trial.html
+file
+
+
+
+add
+
+IPython.external.configobj.html
+file
+
+
+
+add
+
+IPython.kernel.core.fd_redirector.html
+file
+
+
+
+add
+
+IPython.testing.decorator_msim.html
+file
+
+
+
+add
+
+IPython.kernel.core.magic.html
+file
+
+
+
+add
+
+IPython.testing.util.html
+file
+
+
+
+add
+
+IPython.wildcard.html
+file
+
+
+
+add
+
+IPython.gui.wx.ipython_history.html
+file
+
+
+
+add
+
+IPython.background_jobs.html
+file
+
+
+
+add
+
+IPython.platutils_dummy.html
+file
+
+
+
+add
+
+IPython.kernel.engineconnector.html
+file
+
+
+
+add
+
+IPython.kernel.scripts.ipengine.html
+file
+
+
+
+add
+
+IPython.testing.plugin.test_ipdoctest.html
+file
+
+
+
+add
+
+IPython.kernel.core.traceback_formatter.html
+file
+
+
+
+add
+
+IPython.config.api.html
+file
+
+
+
+add
+
+IPython.kernel.core.redirector_output_trap.html
+file
+
+
+
+add
+
+IPython.irunner.html
+file
+
+
+
+add
+
+IPython.gui.wx.thread_ex.html
+file
+
+
+
+add
+
+IPython.demo.html
+file
+
+
+
+add
+
+IPython.genutils.html
+file
+
+
+
+add
+
+IPython.frontend.process.pipedprocess.html
+file
+
+
+
+add
+
+IPython.kernel.map.html
+file
+
+
+
+add
+
+IPython.kernel.magic.html
+file
+
+
+
+add
+
+IPython.platutils_posix.html
+file
+
+
+
+add
+
+IPython.external.guid.html
+file
+
+
+
+add
+
+IPython.testing.decorators_numpy.html
+file
+
+
+
+add
+
+IPython.frontend.prefilterfrontend.html
+file
+
+
+
+add
+
+IPython.kernel.core.message_cache.html
+file
+
+
+
+add
+
+IPython.kernel.scripts.ipcluster.html
+file
+
+
+
+add
+
+IPython.platutils.html
+file
+
+
+
+add
+
+IPython.kernel.core.util.html
+file
+
+
+
+add
+
+IPython.kernel.contexts.html
+file
+
+
+
+add
+
+IPython.dtutils.html
+file
+
+
+
+add
+
+IPython.strdispatch.html
+file
+
+
+
+add
+
+IPython.kernel.core.output_trap.html
+file
+
+
+
+add
+
+IPython.kernel.util.html
+file
+
+
+
+add
+
+IPython.generics.html
+file
+
+
+
+add
+
+IPython.history.html
+file
+
+
+
+add
+
+IPython.macro.html
+file
+
+
+
+add
+
+IPython.kernel.core.history.html
+file
+
+
+
+add
+
+IPython.external.simplegeneric.html
+file
+
+
+
+add
+
+IPython.Shell.html
+file
+
+
+
+add
+
+IPython.kernel.clientconnector.html
+file
+
+
+
+add
+
+IPython.kernel.multienginefc.html
+file
+
+
+
+add
+
+IPython.kernel.pbutil.html
+file
+
+
+
+add
+
+IPython.frontend.wx.console_widget.html
+file
+
+
+
+add
+
+IPython.Magic.html
+file
+
+
+
+add
+

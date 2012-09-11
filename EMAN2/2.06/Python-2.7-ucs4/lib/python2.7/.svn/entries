@@ -1,0 +1,1771 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/lib/python2.7
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+rlcompleter.py
+file
+
+
+
+add
+
+fractions.py
+file
+
+
+
+add
+
+CGIHTTPServer.py
+file
+
+
+
+add
+
+sgmllib.py
+file
+
+
+
+add
+
+genericpath.py
+file
+
+
+
+add
+
+os2emxpath.py
+file
+
+
+
+add
+
+markupbase.py
+file
+
+
+
+add
+
+wave.py
+file
+
+
+
+add
+
+dircache.py
+file
+
+
+
+add
+
+nturl2path.py
+file
+
+
+
+add
+
+site.py
+file
+
+
+
+add
+
+UserString.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+symbol.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+__future__.py
+file
+
+
+
+add
+
+copy_reg.py
+file
+
+
+
+add
+
+asynchat.py
+file
+
+
+
+add
+
+sha.py
+file
+
+
+
+add
+
+stat.py
+file
+
+
+
+add
+
+mimetypes.py
+file
+
+
+
+add
+
+curses
+dir
+
+
+
+add
+
+idlelib
+dir
+
+
+
+add
+
+wsgiref
+dir
+
+
+
+add
+
+SimpleHTTPServer.py
+file
+
+
+
+add
+
+pipes.py
+file
+
+
+
+add
+
+token.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+os.py
+file
+
+
+
+add
+
+sndhdr.py
+file
+
+
+
+add
+
+json
+dir
+
+
+
+add
+
+smtpd.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+unittest
+dir
+
+
+
+add
+
+_abcoll.py
+file
+
+
+
+add
+
+xmlrpclib.py
+file
+
+
+
+add
+
+optparse.py
+file
+
+
+
+add
+
+multiprocessing
+dir
+
+
+
+add
+
+py_compile.py
+file
+
+
+
+add
+
+audiodev.py
+file
+
+
+
+add
+
+threading.py
+file
+
+
+
+add
+
+stringold.py
+file
+
+
+
+add
+
+getpass.py
+file
+
+
+
+add
+
+uuid.py
+file
+
+
+
+add
+
+whichdb.py
+file
+
+
+
+add
+
+LICENSE.txt
+file
+
+
+
+add
+
+importlib
+dir
+
+
+
+add
+
+smtplib.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dumbdbm.py
+file
+
+
+
+add
+
+tabnanny.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+imaplib.py
+file
+
+
+
+add
+
+user.py
+file
+
+
+
+add
+
+fpformat.py
+file
+
+
+
+add
+
+textwrap.py
+file
+
+
+
+add
+
+quopri.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+posixpath.py
+file
+
+
+
+add
+
+symtable.py
+file
+
+
+
+add
+
+DocXMLRPCServer.py
+file
+
+
+
+add
+
+pdb.doc
+file
+
+
+
+add
+
+glob.py
+file
+
+
+
+add
+
+shelve.py
+file
+
+
+
+add
+
+xmllib.py
+file
+
+
+
+add
+
+tokenize.py
+file
+
+
+
+add
+
+warnings.py
+file
+
+
+
+add
+
+sunau.py
+file
+
+
+
+add
+
+distutils
+dir
+
+
+
+add
+
+ntpath.py
+file
+
+
+
+add
+
+_weakrefset.py
+file
+
+
+
+add
+
+formatter.py
+file
+
+
+
+add
+
+htmlentitydefs.py
+file
+
+
+
+add
+
+re.py
+file
+
+
+
+add
+
+mailcap.py
+file
+
+
+
+add
+
+_strptime.py
+file
+
+
+
+add
+
+wsgiref.egg-info
+file
+
+
+
+add
+
+calendar.py
+file
+
+
+
+add
+
+bisect.py
+file
+
+
+
+add
+
+gzip.py
+file
+
+
+
+add
+
+copy.py
+file
+
+
+
+add
+
+netrc.py
+file
+
+
+
+add
+
+pty.py
+file
+
+
+
+add
+
+modulefinder.py
+file
+
+
+
+add
+
+macpath.py
+file
+
+
+
+add
+
+SocketServer.py
+file
+
+
+
+add
+
+ftplib.py
+file
+
+
+
+add
+
+random.py
+file
+
+
+
+add
+
+fnmatch.py
+file
+
+
+
+add
+
+encodings
+dir
+
+
+
+add
+
+asyncore.py
+file
+
+
+
+add
+
+shlex.py
+file
+
+
+
+add
+
+compiler
+dir
+
+
+
+add
+
+base64.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+struct.py
+file
+
+
+
+add
+
+socket.py
+file
+
+
+
+add
+
+pickletools.py
+file
+
+
+
+add
+
+ihooks.py
+file
+
+
+
+add
+
+stringprep.py
+file
+
+
+
+add
+
+atexit.py
+file
+
+
+
+add
+
+heapq.py
+file
+
+
+
+add
+
+decimal.py
+file
+
+
+
+add
+
+difflib.py
+file
+
+
+
+add
+
+logging
+dir
+
+
+
+add
+
+cookielib.py
+file
+
+
+
+add
+
+hotshot
+dir
+
+
+
+add
+
+BaseHTTPServer.py
+file
+
+
+
+add
+
+getopt.py
+file
+
+
+
+add
+
+inspect.py
+file
+
+
+
+add
+
+string.py
+file
+
+
+
+add
+
+mimetools.py
+file
+
+
+
+add
+
+shutil.py
+file
+
+
+
+add
+
+anydbm.py
+file
+
+
+
+add
+
+imghdr.py
+file
+
+
+
+add
+
+numbers.py
+file
+
+
+
+add
+
+runpy.py
+file
+
+
+
+add
+
+collections.py
+file
+
+
+
+add
+
+traceback.py
+file
+
+
+
+add
+
+dummy_threading.py
+file
+
+
+
+add
+
+pydoc_data
+dir
+
+
+
+add
+
+ctypes
+dir
+
+
+
+add
+
+compileall.py
+file
+
+
+
+add
+
+webbrowser.py
+file
+
+
+
+add
+
+weakref.py
+file
+
+
+
+add
+
+abc.py
+file
+
+
+
+add
+
+sched.py
+file
+
+
+
+add
+
+ast.py
+file
+
+
+
+add
+
+plat-linux2
+dir
+
+
+
+add
+
+site-packages
+dir
+
+
+
+add
+
+pyclbr.py
+file
+
+
+
+add
+
+csv.py
+file
+
+
+
+add
+
+commands.py
+file
+
+
+
+add
+
+__phello__.foo.py
+file
+
+
+
+add
+
+robotparser.py
+file
+
+
+
+add
+
+cgi.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+posixfile.py
+file
+
+
+
+add
+
+pdb.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+tempfile.py
+file
+
+
+
+add
+
+nntplib.py
+file
+
+
+
+add
+
+io.py
+file
+
+
+
+add
+
+chunk.py
+file
+
+
+
+add
+
+opcode.py
+file
+
+
+
+add
+
+Cookie.py
+file
+
+
+
+add
+
+pydoc.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+pstats.py
+file
+
+
+
+add
+
+_pyio.py
+file
+
+
+
+add
+
+macurl2path.py
+file
+
+
+
+add
+
+MimeWriter.py
+file
+
+
+
+add
+
+gettext.py
+file
+
+
+
+add
+
+sre_constants.py
+file
+
+
+
+add
+
+md5.py
+file
+
+
+
+add
+
+bsddb
+dir
+
+
+
+add
+
+sunaudio.py
+file
+
+
+
+add
+
+sre.py
+file
+
+
+
+add
+
+urllib.py
+file
+
+
+
+add
+
+htmllib.py
+file
+
+
+
+add
+
+sqlite3
+dir
+
+
+
+add
+
+trace.py
+file
+
+
+
+add
+
+Bastion.py
+file
+
+
+
+add
+
+profile.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+aifc.py
+file
+
+
+
+add
+
+cProfile.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+cmd.py
+file
+
+
+
+add
+
+sysconfig.py
+file
+
+
+
+add
+
+types.py
+file
+
+
+
+add
+
+rfc822.py
+file
+
+
+
+add
+
+repr.py
+file
+
+
+
+add
+
+code.py
+file
+
+
+
+add
+
+contextlib.py
+file
+
+
+
+add
+
+config
+dir
+
+
+
+add
+
+UserDict.py
+file
+
+
+
+add
+
+telnetlib.py
+file
+
+
+
+add
+
+platform.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Queue.py
+file
+
+
+
+add
+
+tarfile.py
+file
+
+
+
+add
+
+lib2to3
+dir
+
+
+
+add
+
+bdb.py
+file
+
+
+
+add
+
+_LWPCookieJar.py
+file
+
+
+
+add
+
+new.py
+file
+
+
+
+add
+
+statvfs.py
+file
+
+
+
+add
+
+mimify.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+mhlib.py
+file
+
+
+
+add
+
+lib-tk
+dir
+
+
+
+add
+
+mailbox.py
+file
+
+
+
+add
+
+_MozillaCookieJar.py
+file
+
+
+
+add
+
+StringIO.py
+file
+
+
+
+add
+
+fileinput.py
+file
+
+
+
+add
+
+email
+dir
+
+
+
+add
+
+ssl.py
+file
+
+
+
+add
+
+zipfile.py
+file
+
+
+
+add
+
+argparse.py
+file
+
+
+
+add
+
+doctest.py
+file
+
+
+
+add
+
+httplib.py
+file
+
+
+
+add
+
+rexec.py
+file
+
+
+
+add
+
+lib-dynload
+dir
+
+
+
+add
+
+toaiff.py
+file
+
+
+
+add
+
+codeop.py
+file
+
+
+
+add
+
+UserList.py
+file
+
+
+
+add
+
+hashlib.py
+file
+
+
+
+add
+
+linecache.py
+file
+
+
+
+add
+
+urllib2.py
+file
+
+
+
+add
+
+pprint.py
+file
+
+
+
+add
+
+colorsys.py
+file
+
+
+
+add
+
+sets.py
+file
+
+
+
+add
+
+_threading_local.py
+file
+
+
+
+add
+
+filecmp.py
+file
+
+
+
+add
+
+tty.py
+file
+
+
+
+add
+
+ConfigParser.py
+file
+
+
+
+add
+
+dummy_thread.py
+file
+
+
+
+add
+
+plistlib.py
+file
+
+
+
+add
+
+xdrlib.py
+file
+
+
+
+add
+
+cgitb.py
+file
+
+
+
+add
+
+test
+dir
+
+
+
+add
+
+subprocess.py
+file
+
+
+
+add
+
+dbhash.py
+file
+
+
+
+add
+
+uu.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+multifile.py
+file
+
+
+
+add
+
+timeit.py
+file
+
+
+
+add
+
+urlparse.py
+file
+
+
+
+add
+
+locale.py
+file
+
+
+
+add
+
+codecs.py
+file
+
+
+
+add
+
+antigravity.py
+file
+
+
+
+add
+
+sre_compile.py
+file
+
+
+
+add
+
+mutex.py
+file
+
+
+
+add
+
+popen2.py
+file
+
+
+
+add
+
+SimpleXMLRPCServer.py
+file
+
+
+
+add
+
+pickle.py
+file
+
+
+
+add
+
+this.py
+file
+
+
+
+add
+
+hmac.py
+file
+
+
+
+add
+
+xml
+dir
+
+
+
+add
+
+functools.py
+file
+
+
+
+add
+
+binhex.py
+file
+
+
+
+add
+
+pkgutil.py
+file
+
+
+
+add
+
+dis.py
+file
+
+
+
+add
+
+HTMLParser.py
+file
+
+
+
+add
+
+sre_parse.py
+file
+
+
+
+add
+
+imputil.py
+file
+
+
+
+add
+
+keyword.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+poplib.py
+file
+
+
+
+add
+

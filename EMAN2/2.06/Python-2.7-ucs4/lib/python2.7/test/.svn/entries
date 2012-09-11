@@ -1,0 +1,3549 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/lib/python2.7/test
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+test_math.py
+file
+
+
+
+add
+
+test_csv.py
+file
+
+
+
+add
+
+test_extcall.py
+file
+
+
+
+add
+
+test_urllib2_localnet.py
+file
+
+
+
+add
+
+test_optparse.py
+file
+
+
+
+add
+
+test_cl.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_future5.py
+file
+
+
+
+add
+
+math_testcases.txt
+file
+
+
+
+add
+
+regrtest.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_codecs.py
+file
+
+
+
+add
+
+test_dictviews.py
+file
+
+
+
+add
+
+empty.vbs
+file
+
+
+
+add
+
+test_robotparser.py
+file
+
+
+
+add
+
+test_gl.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_xmlrpc.py
+file
+
+
+
+add
+
+doctest_aliases.py
+file
+
+
+
+add
+
+test_pickle.py
+file
+
+
+
+add
+
+test_repr.py
+file
+
+
+
+add
+
+test_code.py
+file
+
+
+
+add
+
+badsyntax_future3.py
+file
+
+
+
+add
+
+test_pkgimport.py
+file
+
+
+
+add
+
+test_file2k.py
+file
+
+
+
+add
+
+test_binhex.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_fpformat.py
+file
+
+
+
+add
+
+test_pep352.py
+file
+
+
+
+add
+
+pydoc_mod.py
+file
+
+
+
+add
+
+test_bsddb.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_linuxaudiodev.py
+file
+
+
+
+add
+
+test_symtable.py
+file
+
+
+
+add
+
+test_compileall.py
+file
+
+
+
+add
+
+test_exceptions.py
+file
+
+
+
+add
+
+test_difflib_expect.html
+file
+
+
+
+add
+
+test_sundry.py
+file
+
+
+
+add
+
+test_md5.py
+file
+
+
+
+add
+
+test_univnewlines.py
+file
+
+
+
+add
+
+test_warnings.py
+file
+
+
+
+add
+
+test_tokenize.py
+file
+
+
+
+add
+
+test_tuple.py
+file
+
+
+
+add
+
+test_descrtut.py
+file
+
+
+
+add
+
+regex_tests.py
+file
+
+
+
+add
+
+test__locale.py
+file
+
+
+
+add
+
+test_global.py
+file
+
+
+
+add
+
+test_mutex.py
+file
+
+
+
+add
+
+pydocfodder.py
+file
+
+
+
+add
+
+test_cmd.py
+file
+
+
+
+add
+
+script_helper.py
+file
+
+
+
+add
+
+testimgr.uue
+file
+
+
+
+add
+
+test_ctypes.py
+file
+
+
+
+add
+
+test_io.py
+file
+
+
+
+add
+
+test_mimetools.py
+file
+
+
+
+add
+
+test_gdbm.py
+file
+
+
+
+add
+
+test_dumbdbm.py
+file
+
+
+
+add
+
+test_smtplib.py
+file
+
+
+
+add
+
+test_imaplib.py
+file
+
+
+
+add
+
+win_console_handler.py
+file
+
+
+
+add
+
+test_importhooks.py
+file
+
+
+
+add
+
+test_tk.py
+file
+
+
+
+add
+
+test_traceback.py
+file
+
+
+
+add
+
+threaded_import_hangers.py
+file
+
+
+
+add
+
+test_asyncore.py
+file
+
+
+
+add
+
+test_dict.py
+file
+
+
+
+add
+
+test_macostools.py
+file
+
+
+
+add
+
+test_ucn.py
+file
+
+
+
+add
+
+warning_tests.py
+file
+
+
+
+add
+
+test_new.py
+file
+
+
+
+add
+
+test_smtpnet.py
+file
+
+
+
+add
+
+test_set.py
+file
+
+
+
+add
+
+subprocessdata
+dir
+
+
+
+add
+
+buffer_tests.py
+file
+
+
+
+add
+
+keycert.pem
+file
+
+
+
+add
+
+test_descr.py
+file
+
+
+
+add
+
+test_ssl.py
+file
+
+
+
+add
+
+test_crypt.py
+file
+
+
+
+add
+
+test_frozen.py
+file
+
+
+
+add
+
+test_bufio.py
+file
+
+
+
+add
+
+test_winsound.py
+file
+
+
+
+add
+
+test_threadedtempfile.py
+file
+
+
+
+add
+
+test_complex.py
+file
+
+
+
+add
+
+test_hmac.py
+file
+
+
+
+add
+
+greyrgb.uue
+file
+
+
+
+add
+
+test_generators.py
+file
+
+
+
+add
+
+test_list.py
+file
+
+
+
+add
+
+test_msilib.py
+file
+
+
+
+add
+
+test_pep263.py
+file
+
+
+
+add
+
+test_quopri.py
+file
+
+
+
+add
+
+badsyntax_future9.py
+file
+
+
+
+add
+
+test_fork1.py
+file
+
+
+
+add
+
+test_pep277.py
+file
+
+
+
+add
+
+randv2_32.pck
+file
+
+
+
+add
+
+test_xmllib.py
+file
+
+
+
+add
+
+test_wait3.py
+file
+
+
+
+add
+
+test_softspace.py
+file
+
+
+
+add
+
+floating_points.txt
+file
+
+
+
+add
+
+test_doctest2.py
+file
+
+
+
+add
+
+badkey.pem
+file
+
+
+
+add
+
+test_opcodes.py
+file
+
+
+
+add
+
+test_setcomps.py
+file
+
+
+
+add
+
+test_strftime.py
+file
+
+
+
+add
+
+test_ntpath.py
+file
+
+
+
+add
+
+test_kqueue.py
+file
+
+
+
+add
+
+test_isinstance.py
+file
+
+
+
+add
+
+tokenize_tests.txt
+file
+
+
+
+add
+
+ssl_key.pem
+file
+
+
+
+add
+
+test_sysconfig.py
+file
+
+
+
+add
+
+test_site.py
+file
+
+
+
+add
+
+test_inspect.py
+file
+
+
+
+add
+
+test_sys_settrace.py
+file
+
+
+
+add
+
+test_ioctl.py
+file
+
+
+
+add
+
+badsyntax_future4.py
+file
+
+
+
+add
+
+test_bsddb185.py
+file
+
+
+
+add
+
+test_contains.py
+file
+
+
+
+add
+
+test_array.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_dis.py
+file
+
+
+
+add
+
+test_dummy_threading.py
+file
+
+
+
+add
+
+test_codecmaps_hk.py
+file
+
+
+
+add
+
+test_doctest4.txt
+file
+
+
+
+add
+
+double_const.py
+file
+
+
+
+add
+
+test_pkg.py
+file
+
+
+
+add
+
+test_complex_args.py
+file
+
+
+
+add
+
+test_itertools.py
+file
+
+
+
+add
+
+formatfloat_testcases.txt
+file
+
+
+
+add
+
+test_distutils.py
+file
+
+
+
+add
+
+test_imp.py
+file
+
+
+
+add
+
+Sine-1000Hz-300ms.aif
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_unicode.py
+file
+
+
+
+add
+
+test_resource.py
+file
+
+
+
+add
+
+test_socket.py
+file
+
+
+
+add
+
+test_uu.py
+file
+
+
+
+add
+
+test_genericpath.py
+file
+
+
+
+add
+
+test_int.py
+file
+
+
+
+add
+
+test_docxmlrpc.py
+file
+
+
+
+add
+
+test_future1.py
+file
+
+
+
+add
+
+infinite_reload.py
+file
+
+
+
+add
+
+test_getargs.py
+file
+
+
+
+add
+
+test_atexit.py
+file
+
+
+
+add
+
+sgml_input.html
+file
+
+
+
+add
+
+test_dl.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_fileinput.py
+file
+
+
+
+add
+
+pystone.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_getopt.py
+file
+
+
+
+add
+
+test_transformer.py
+file
+
+
+
+add
+
+test_applesingle.py
+file
+
+
+
+add
+
+test_pow.py
+file
+
+
+
+add
+
+sortperf.py
+file
+
+
+
+add
+
+test_float.py
+file
+
+
+
+add
+
+test_string.py
+file
+
+
+
+add
+
+test_int_literal.py
+file
+
+
+
+add
+
+test_poll.py
+file
+
+
+
+add
+
+test_shutil.py
+file
+
+
+
+add
+
+test_genexps.py
+file
+
+
+
+add
+
+test_sha.py
+file
+
+
+
+add
+
+test_with.py
+file
+
+
+
+add
+
+cjkencodings
+dir
+
+
+
+add
+
+test_py3kwarn.py
+file
+
+
+
+add
+
+test_file.py
+file
+
+
+
+add
+
+test_shlex.py
+file
+
+
+
+add
+
+testtar.tar
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_logging.py
+file
+
+
+
+add
+
+test_email.py
+file
+
+
+
+add
+
+test_threadsignals.py
+file
+
+
+
+add
+
+test_gc.py
+file
+
+
+
+add
+
+test_codecmaps_kr.py
+file
+
+
+
+add
+
+test_pyclbr.py
+file
+
+
+
+add
+
+test_print.py
+file
+
+
+
+add
+
+test_StringIO.py
+file
+
+
+
+add
+
+test_heapq.py
+file
+
+
+
+add
+
+test_long.py
+file
+
+
+
+add
+
+test_profile.py
+file
+
+
+
+add
+
+test_dbm.py
+file
+
+
+
+add
+
+test_typechecks.py
+file
+
+
+
+add
+
+test_cprofile.py
+file
+
+
+
+add
+
+xmltestdata
+dir
+
+
+
+add
+
+test___future__.py
+file
+
+
+
+add
+
+ssl_cert.pem
+file
+
+
+
+add
+
+test_charmapcodec.py
+file
+
+
+
+add
+
+test_gzip.py
+file
+
+
+
+add
+
+test_future.py
+file
+
+
+
+add
+
+test_cmd_line.py
+file
+
+
+
+add
+
+test_longexp.py
+file
+
+
+
+add
+
+test_functools.py
+file
+
+
+
+add
+
+test_imgfile.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_colorsys.py
+file
+
+
+
+add
+
+test_runpy.py
+file
+
+
+
+add
+
+test_pstats.py
+file
+
+
+
+add
+
+test_os.py
+file
+
+
+
+add
+
+test_unpack.py
+file
+
+
+
+add
+
+test_plistlib.py
+file
+
+
+
+add
+
+test_future_builtins.py
+file
+
+
+
+add
+
+test_aepack.py
+file
+
+
+
+add
+
+test_errno.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_syntax.py
+file
+
+
+
+add
+
+test_compare.py
+file
+
+
+
+add
+
+test_tarfile.py
+file
+
+
+
+add
+
+test_compile.py
+file
+
+
+
+add
+
+test_wait4.py
+file
+
+
+
+add
+
+test_fractions.py
+file
+
+
+
+add
+
+test_nis.py
+file
+
+
+
+add
+
+test_parser.py
+file
+
+
+
+add
+
+test_exception_variations.py
+file
+
+
+
+add
+
+test_openpty.py
+file
+
+
+
+add
+
+list_tests.py
+file
+
+
+
+add
+
+test_bastion.py
+file
+
+
+
+add
+
+test_audioop.py
+file
+
+
+
+add
+
+test_iterlen.py
+file
+
+
+
+add
+
+test_doctest.py
+file
+
+
+
+add
+
+test_rfc822.py
+file
+
+
+
+add
+
+test_httplib.py
+file
+
+
+
+add
+
+test_thread.py
+file
+
+
+
+add
+
+test_json.py
+file
+
+
+
+add
+
+test_hashlib.py
+file
+
+
+
+add
+
+lock_tests.py
+file
+
+
+
+add
+
+test_mimetypes.py
+file
+
+
+
+add
+
+test_capi.py
+file
+
+
+
+add
+
+zipdir.zip
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+badsyntax_future5.py
+file
+
+
+
+add
+
+test_pydoc.py
+file
+
+
+
+add
+
+test_strtod.py
+file
+
+
+
+add
+
+outstanding_bugs.py
+file
+
+
+
+add
+
+test_pep247.py
+file
+
+
+
+add
+
+test_tcl.py
+file
+
+
+
+add
+
+test_xml_etree.py
+file
+
+
+
+add
+
+test_sort.py
+file
+
+
+
+add
+
+test_defaultdict.py
+file
+
+
+
+add
+
+test_codecencodings_hk.py
+file
+
+
+
+add
+
+test_operator.py
+file
+
+
+
+add
+
+test_cmath.py
+file
+
+
+
+add
+
+test_future2.py
+file
+
+
+
+add
+
+test_abstract_numbers.py
+file
+
+
+
+add
+
+test_unary.py
+file
+
+
+
+add
+
+pickletester.py
+file
+
+
+
+add
+
+test_zlib.py
+file
+
+
+
+add
+
+decimaltestdata
+dir
+
+
+
+add
+
+test_types.py
+file
+
+
+
+add
+
+test_re.py
+file
+
+
+
+add
+
+test_bigaddrspace.py
+file
+
+
+
+add
+
+test_codeop.py
+file
+
+
+
+add
+
+test_compiler.py
+file
+
+
+
+add
+
+test_asynchat.py
+file
+
+
+
+add
+
+test_pprint.py
+file
+
+
+
+add
+
+test_codeccallbacks.py
+file
+
+
+
+add
+
+test_getargs2.py
+file
+
+
+
+add
+
+test_socketserver.py
+file
+
+
+
+add
+
+test_SimpleHTTPServer.py
+file
+
+
+
+add
+
+test_peepholer.py
+file
+
+
+
+add
+
+test_xdrlib.py
+file
+
+
+
+add
+
+xmltests.py
+file
+
+
+
+add
+
+test_abc.py
+file
+
+
+
+add
+
+test_ossaudiodev.py
+file
+
+
+
+add
+
+test_cd.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_long_future.py
+file
+
+
+
+add
+
+test_zipimport_support.py
+file
+
+
+
+add
+
+test_sgmllib.py
+file
+
+
+
+add
+
+test_mmap.py
+file
+
+
+
+add
+
+test_pyexpat.py
+file
+
+
+
+add
+
+test_mhlib.py
+file
+
+
+
+add
+
+test_winreg.py
+file
+
+
+
+add
+
+test_minidom.py
+file
+
+
+
+add
+
+test_al.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_stringprep.py
+file
+
+
+
+add
+
+test_structseq.py
+file
+
+
+
+add
+
+test_locale.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+test_aifc.py
+file
+
+
+
+add
+
+sha256.pem
+file
+
+
+
+add
+
+test_cgi.py
+file
+
+
+
+add
+
+test_codecencodings_kr.py
+file
+
+
+
+add
+
+test_popen2.py
+file
+
+
+
+add
+
+test_pdb.py
+file
+
+
+
+add
+
+profilee.py
+file
+
+
+
+add
+
+test_codecmaps_tw.py
+file
+
+
+
+add
+
+test_str.py
+file
+
+
+
+add
+
+test_scope.py
+file
+
+
+
+add
+
+test_buffer.py
+file
+
+
+
+add
+
+test_cfgparser.py
+file
+
+
+
+add
+
+test_signal.py
+file
+
+
+
+add
+
+test_codecmaps_cn.py
+file
+
+
+
+add
+
+test_textwrap.py
+file
+
+
+
+add
+
+test_unicodedata.py
+file
+
+
+
+add
+
+testimg.uue
+file
+
+
+
+add
+
+randv3.pck
+file
+
+
+
+add
+
+test_queue.py
+file
+
+
+
+add
+
+test_poplib.py
+file
+
+
+
+add
+
+test_marshal.py
+file
+
+
+
+add
+
+curses_tests.py
+file
+
+
+
+add
+
+test_bz2.py
+file
+
+
+
+add
+
+test_cookielib.py
+file
+
+
+
+add
+
+test_memoryio.py
+file
+
+
+
+add
+
+test_urllibnet.py
+file
+
+
+
+add
+
+test_bsddb3.py
+file
+
+
+
+add
+
+cmath_testcases.txt
+file
+
+
+
+add
+
+test_iter.py
+file
+
+
+
+add
+
+test_memoryview.py
+file
+
+
+
+add
+
+test_deque.py
+file
+
+
+
+add
+
+test_ascii_formatd.py
+file
+
+
+
+add
+
+svn_python_org_https_cert.pem
+file
+
+
+
+add
+
+test_strptime.py
+file
+
+
+
+add
+
+test_whichdb.py
+file
+
+
+
+add
+
+test_calendar.py
+file
+
+
+
+add
+
+autotest.py
+file
+
+
+
+add
+
+test_eof.py
+file
+
+
+
+add
+
+bad_coding.py
+file
+
+
+
+add
+
+test_epoll.py
+file
+
+
+
+add
+
+seq_tests.py
+file
+
+
+
+add
+
+test_zipfile64.py
+file
+
+
+
+add
+
+relimport.py
+file
+
+
+
+add
+
+badsyntax_future6.py
+file
+
+
+
+add
+
+mapping_tests.py
+file
+
+
+
+add
+
+test_sets.py
+file
+
+
+
+add
+
+test_binascii.py
+file
+
+
+
+add
+
+test_htmlparser.py
+file
+
+
+
+add
+
+test_dummy_thread.py
+file
+
+
+
+add
+
+test_MimeWriter.py
+file
+
+
+
+add
+
+cfgparser.1
+file
+
+
+
+add
+
+test_xml_etree_c.py
+file
+
+
+
+add
+
+inspect_fodder.py
+file
+
+
+
+add
+
+test_httpservers.py
+file
+
+
+
+add
+
+randv2_64.pck
+file
+
+
+
+add
+
+test_datetime.py
+file
+
+
+
+add
+
+test_future3.py
+file
+
+
+
+add
+
+https_svn_python_org_root.pem
+file
+
+
+
+add
+
+test_importlib.py
+file
+
+
+
+add
+
+test_scriptpackages.py
+file
+
+
+
+add
+
+test_decorators.py
+file
+
+
+
+add
+
+test_wsgiref.py
+file
+
+
+
+add
+
+test_fileio.py
+file
+
+
+
+add
+
+test_index.py
+file
+
+
+
+add
+
+test_email_codecs.py
+file
+
+
+
+add
+
+test_ttk_guionly.py
+file
+
+
+
+add
+
+test_ttk_textonly.py
+file
+
+
+
+add
+
+test_contextlib.py
+file
+
+
+
+add
+
+inspect_fodder2.py
+file
+
+
+
+add
+
+test_macpath.py
+file
+
+
+
+add
+
+test_fnmatch.py
+file
+
+
+
+add
+
+test_pipes.py
+file
+
+
+
+add
+
+test_imageop.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+nullcert.pem
+file
+
+
+
+add
+
+check_soundcard.vbs
+file
+
+
+
+add
+
+test_univnewlines2k.py
+file
+
+
+
+add
+
+test_dictcomps.py
+file
+
+
+
+add
+
+test_unicode_file.py
+file
+
+
+
+add
+
+test_module.py
+file
+
+
+
+add
+
+test_shelve.py
+file
+
+
+
+add
+
+test_grammar.py
+file
+
+
+
+add
+
+test_normalization.py
+file
+
+
+
+add
+
+test_codecmaps_jp.py
+file
+
+
+
+add
+
+test_hotshot.py
+file
+
+
+
+add
+
+re_tests.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_largefile.py
+file
+
+
+
+add
+
+test_pwd.py
+file
+
+
+
+add
+
+test_mutants.py
+file
+
+
+
+add
+
+test_gdb.py
+file
+
+
+
+add
+
+bad_coding2.py
+file
+
+
+
+add
+
+badcert.pem
+file
+
+
+
+add
+
+test_decimal.py
+file
+
+
+
+add
+
+test_difflib.py
+file
+
+
+
+add
+
+test_xpickle.py
+file
+
+
+
+add
+
+test_undocumented_details.py
+file
+
+
+
+add
+
+test_commands.py
+file
+
+
+
+add
+
+test_wave.py
+file
+
+
+
+add
+
+test_weakset.py
+file
+
+
+
+add
+
+test_tempfile.py
+file
+
+
+
+add
+
+test_strop.py
+file
+
+
+
+add
+
+test_bisect.py
+file
+
+
+
+add
+
+test_threaded_import.py
+file
+
+
+
+add
+
+pyclbr_input.py
+file
+
+
+
+add
+
+test_multibytecodec.py
+file
+
+
+
+add
+
+test_doctest2.txt
+file
+
+
+
+add
+
+testcodec.py
+file
+
+
+
+add
+
+test_random.py
+file
+
+
+
+add
+
+test_ftplib.py
+file
+
+
+
+add
+
+test_pep292.py
+file
+
+
+
+add
+
+test_codecencodings_tw.py
+file
+
+
+
+add
+
+test_telnetlib.py
+file
+
+
+
+add
+
+test_weakref.py
+file
+
+
+
+add
+
+test_base64.py
+file
+
+
+
+add
+
+test_struct.py
+file
+
+
+
+add
+
+test_enumerate.py
+file
+
+
+
+add
+
+test_codecencodings_cn.py
+file
+
+
+
+add
+
+test_subprocess.py
+file
+
+
+
+add
+
+test_rlcompleter.py
+file
+
+
+
+add
+
+string_tests.py
+file
+
+
+
+add
+
+test_old_mailbox.py
+file
+
+
+
+add
+
+test_bool.py
+file
+
+
+
+add
+
+test_zipimport.py
+file
+
+
+
+add
+
+test_cmd_line_script.py
+file
+
+
+
+add
+
+gdb_sample.py
+file
+
+
+
+add
+
+test_slice.py
+file
+
+
+
+add
+
+test_macos.py
+file
+
+
+
+add
+
+test_coding.py
+file
+
+
+
+add
+
+wrongcert.pem
+file
+
+
+
+add
+
+test_uuid.py
+file
+
+
+
+add
+
+test_import.py
+file
+
+
+
+add
+
+test_anydbm.py
+file
+
+
+
+add
+
+test_netrc.py
+file
+
+
+
+add
+
+test_linecache.py
+file
+
+
+
+add
+
+test_unittest.py
+file
+
+
+
+add
+
+badsyntax_future7.py
+file
+
+
+
+add
+
+testrgb.uue
+file
+
+
+
+add
+
+test_glob.py
+file
+
+
+
+add
+
+test_gettext.py
+file
+
+
+
+add
+
+test_platform.py
+file
+
+
+
+add
+
+test_property.py
+file
+
+
+
+add
+
+fork_wait.py
+file
+
+
+
+add
+
+test_bytes.py
+file
+
+
+
+add
+
+test_sunaudiodev.py
+file
+
+
+
+add
+
+test_timeout.py
+file
+
+
+
+add
+
+time_hashlib.py
+file
+
+
+
+add
+
+tf_inherit_check.py
+file
+
+
+
+add
+
+test_multifile.py
+file
+
+
+
+add
+
+test_htmllib.py
+file
+
+
+
+add
+
+test_doctest.txt
+file
+
+
+
+add
+
+test_time.py
+file
+
+
+
+add
+
+test_future4.py
+file
+
+
+
+add
+
+test_structmembers.py
+file
+
+
+
+add
+
+ieee754.txt
+file
+
+
+
+add
+
+test_sqlite.py
+file
+
+
+
+add
+
+test_posix.py
+file
+
+
+
+add
+
+test_curses.py
+file
+
+
+
+add
+
+test___all__.py
+file
+
+
+
+add
+
+test_argparse.py
+file
+
+
+
+add
+
+test_fcntl.py
+file
+
+
+
+add
+
+test_binop.py
+file
+
+
+
+add
+
+badsyntax_nocaret.py
+file
+
+
+
+add
+
+test_cpickle.py
+file
+
+
+
+add
+
+test_copy.py
+file
+
+
+
+add
+
+test_sys_setprofile.py
+file
+
+
+
+add
+
+test_modulefinder.py
+file
+
+
+
+add
+
+test_threading_local.py
+file
+
+
+
+add
+
+test_select.py
+file
+
+
+
+add
+
+test_hash.py
+file
+
+
+
+add
+
+exception_hierarchy.txt
+file
+
+
+
+add
+
+test_richcmp.py
+file
+
+
+
+add
+
+test_multiprocessing.py
+file
+
+
+
+add
+
+test_grp.py
+file
+
+
+
+add
+
+test_urllib.py
+file
+
+
+
+add
+
+test_sax.py
+file
+
+
+
+add
+
+test_mailbox.py
+file
+
+
+
+add
+
+test_urlparse.py
+file
+
+
+
+add
+
+test_bigmem.py
+file
+
+
+
+add
+
+test_codecencodings_jp.py
+file
+
+
+
+add
+
+test_coercion.py
+file
+
+
+
+add
+
+test_zipfile.py
+file
+
+
+
+add
+
+test_class.py
+file
+
+
+
+add
+
+test_cookie.py
+file
+
+
+
+add
+
+testall.py
+file
+
+
+
+add
+
+test_urllib2.py
+file
+
+
+
+add
+
+test_pty.py
+file
+
+
+
+add
+
+test_filecmp.py
+file
+
+
+
+add
+
+audiotest.au
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_augassign.py
+file
+
+
+
+add
+
+test_userdict.py
+file
+
+
+
+add
+
+test_readline.py
+file
+
+
+
+add
+
+data
+dir
+
+
+
+add
+
+test_xrange.py
+file
+
+
+
+add
+
+reperf.py
+file
+
+
+
+add
+
+test_pickletools.py
+file
+
+
+
+add
+
+test_startfile.py
+file
+
+
+
+add
+
+test_trace.py
+file
+
+
+
+add
+
+test_dircache.py
+file
+
+
+
+add
+
+tracedmodules
+dir
+
+
+
+add
+
+test_threading.py
+file
+
+
+
+add
+
+test_userstring.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_builtin.py
+file
+
+
+
+add
+
+sample_doctest.py
+file
+
+
+
+add
+
+test_copy_reg.py
+file
+
+
+
+add
+
+test_multibytecodec_support.py
+file
+
+
+
+add
+
+test_funcattrs.py
+file
+
+
+
+add
+
+test_userlist.py
+file
+
+
+
+add
+
+test_call.py
+file
+
+
+
+add
+
+185test.db
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_support.py
+file
+
+
+
+add
+
+test_collections.py
+file
+
+
+
+add
+
+test_lib2to3.py
+file
+
+
+
+add
+
+test_sys.py
+file
+
+
+
+add
+
+test_pkgutil.py
+file
+
+
+
+add
+
+test_doctest3.txt
+file
+
+
+
+add
+
+test_posixpath.py
+file
+
+
+
+add
+
+badsyntax_future8.py
+file
+
+
+
+add
+
+test_popen.py
+file
+
+
+
+add
+
+test_urllib2net.py
+file
+
+
+
+add
+
+test_email_renamed.py
+file
+
+
+
+add
+
+test_ast.py
+file
+
+
+
+add
+
+test_format.py
+file
+
+
+
+add
+

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+firefox http://www.wadsworth.org/spider_doc/spider/docs/documents.html

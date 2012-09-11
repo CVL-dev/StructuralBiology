@@ -1,0 +1,553 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/lib/python2.7/idlelib
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+AutoCompleteWindow.py
+file
+
+
+
+add
+
+ToolTip.py
+file
+
+
+
+add
+
+UndoDelegator.py
+file
+
+
+
+add
+
+Bindings.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+AutoComplete.py
+file
+
+
+
+add
+
+configHandler.py
+file
+
+
+
+add
+
+HyperParser.py
+file
+
+
+
+add
+
+ColorDelegator.py
+file
+
+
+
+add
+
+Delegator.py
+file
+
+
+
+add
+
+testcode.py
+file
+
+
+
+add
+
+ObjectBrowser.py
+file
+
+
+
+add
+
+configSectionNameDialog.py
+file
+
+
+
+add
+
+ZoomHeight.py
+file
+
+
+
+add
+
+PyShell.py
+file
+
+
+
+add
+
+ParenMatch.py
+file
+
+
+
+add
+
+CREDITS.txt
+file
+
+
+
+add
+
+Icons
+dir
+
+
+
+add
+
+Debugger.py
+file
+
+
+
+add
+
+config-keys.def
+file
+
+
+
+add
+
+configDialog.py
+file
+
+
+
+add
+
+StackViewer.py
+file
+
+
+
+add
+
+HISTORY.txt
+file
+
+
+
+add
+
+ReplaceDialog.py
+file
+
+
+
+add
+
+SearchEngine.py
+file
+
+
+
+add
+
+ScriptBinding.py
+file
+
+
+
+add
+
+ChangeLog
+file
+
+
+
+add
+
+tabbedpages.py
+file
+
+
+
+add
+
+keybindingDialog.py
+file
+
+
+
+add
+
+configHelpSourceEdit.py
+file
+
+
+
+add
+
+WidgetRedirector.py
+file
+
+
+
+add
+
+GrepDialog.py
+file
+
+
+
+add
+
+EditorWindow.py
+file
+
+
+
+add
+
+FormatParagraph.py
+file
+
+
+
+add
+
+help.txt
+file
+
+
+
+add
+
+config-highlight.def
+file
+
+
+
+add
+
+PyParse.py
+file
+
+
+
+add
+
+rpc.py
+file
+
+
+
+add
+
+README.txt
+file
+
+
+
+add
+
+OutputWindow.py
+file
+
+
+
+add
+
+aboutDialog.py
+file
+
+
+
+add
+
+idle.bat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+TODO.txt
+file
+
+
+
+add
+
+config-main.def
+file
+
+
+
+add
+
+IdleHistory.py
+file
+
+
+
+add
+
+PathBrowser.py
+file
+
+
+
+add
+
+IOBinding.py
+file
+
+
+
+add
+
+WindowList.py
+file
+
+
+
+add
+
+ScrolledList.py
+file
+
+
+
+add
+
+ClassBrowser.py
+file
+
+
+
+add
+
+CallTips.py
+file
+
+
+
+add
+
+FileList.py
+file
+
+
+
+add
+
+idle.py
+file
+
+
+
+add
+
+CodeContext.py
+file
+
+
+
+add
+
+textView.py
+file
+
+
+
+add
+
+CallTipWindow.py
+file
+
+
+
+add
+
+SearchDialogBase.py
+file
+
+
+
+add
+
+SearchDialog.py
+file
+
+
+
+add
+
+RemoteObjectBrowser.py
+file
+
+
+
+add
+
+idlever.py
+file
+
+
+
+add
+
+RemoteDebugger.py
+file
+
+
+
+add
+
+TreeWidget.py
+file
+
+
+
+add
+
+NEWS.txt
+file
+
+
+
+add
+
+run.py
+file
+
+
+
+add
+
+idle.pyw
+file
+
+
+
+add
+
+AutoExpand.py
+file
+
+
+
+add
+
+config-extensions.def
+file
+
+
+
+add
+
+Percolator.py
+file
+
+
+
+add
+
+dynOptionMenuWidget.py
+file
+
+
+
+add
+
+extend.txt
+file
+
+
+
+add
+
+RstripExtension.py
+file
+
+
+
+add
+
+MultiStatusBar.py
+file
+
+
+
+add
+
+MultiCall.py
+file
+
+
+
+add
+
+macosxSupport.py
+file
+
+
+
+add
+

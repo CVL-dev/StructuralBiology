@@ -1,0 +1,203 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/sip/PyQt4/QtDesigner
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+qpydesignerpropertysheetextension.sip
+file
+
+
+
+add
+
+taskmenu.sip
+file
+
+
+
+add
+
+qextensionmanager.sip
+file
+
+
+
+add
+
+qpydesignercontainerextension.sip
+file
+
+
+
+add
+
+abstractformbuilder.sip
+file
+
+
+
+add
+
+abstractformeditor.sip
+file
+
+
+
+add
+
+qpydesignertaskmenuextension.sip
+file
+
+
+
+add
+
+membersheet.sip
+file
+
+
+
+add
+
+QtDesignermod.sip
+file
+
+
+
+add
+
+qpydesignermembersheetextension.sip
+file
+
+
+
+add
+
+default_extensionfactory.sip
+file
+
+
+
+add
+
+qpydesignercustomwidgetplugin.sip
+file
+
+
+
+add
+
+abstractactioneditor.sip
+file
+
+
+
+add
+
+abstractformwindowmanager.sip
+file
+
+
+
+add
+
+formbuilder.sip
+file
+
+
+
+add
+
+extension.sip
+file
+
+
+
+add
+
+abstractformwindowcursor.sip
+file
+
+
+
+add
+
+propertysheet.sip
+file
+
+
+
+add
+
+customwidget.sip
+file
+
+
+
+add
+
+abstractformwindow.sip
+file
+
+
+
+add
+
+abstractpropertyeditor.sip
+file
+
+
+
+add
+
+abstractwidgetbox.sip
+file
+
+
+
+add
+
+abstractobjectinspector.sip
+file
+
+
+
+add
+
+container.sip
+file
+
+
+
+add
+
+qpydesignercustomwidgetcollectionplugin.sip
+file
+
+
+
+add
+

@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/doc/ipython/manual/development
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+testing.html
+file
+
+
+
+add
+
+messaging.html
+file
+
+
+
+add
+
+reorg.html
+file
+
+
+
+add
+
+coding_guide.html
+file
+
+
+
+add
+
+release.html
+file
+
+
+
+add
+
+inputhook_app.html
+file
+
+
+
+add
+
+ipythonzmq.html
+file
+
+
+
+add
+
+doc_guide.html
+file
+
+
+
+add
+
+parallel_messages.html
+file
+
+
+
+add
+
+roadmap.html
+file
+
+
+
+add
+
+ipgraph.html
+file
+
+
+
+add
+
+session_format.html
+file
+
+
+
+add
+
+parallel_connections.html
+file
+
+
+
+add
+
+ipython_qt.html
+file
+
+
+
+add
+
+gitwash
+dir
+
+
+
+add
+
+magic_blueprint.html
+file
+
+
+
+add
+
+contributing.html
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+

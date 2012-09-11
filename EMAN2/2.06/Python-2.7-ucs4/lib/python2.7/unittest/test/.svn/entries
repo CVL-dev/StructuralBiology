@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/lib/python2.7/unittest/test
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+test_suite.py
+file
+
+
+
+add
+
+test_assertions.py
+file
+
+
+
+add
+
+dummy.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+test_loader.py
+file
+
+
+
+add
+
+test_program.py
+file
+
+
+
+add
+
+test_discovery.py
+file
+
+
+
+add
+
+test_runner.py
+file
+
+
+
+add
+
+test_case.py
+file
+
+
+
+add
+
+support.py
+file
+
+
+
+add
+
+test_result.py
+file
+
+
+
+add
+
+test_functiontestcase.py
+file
+
+
+
+add
+
+test_setups.py
+file
+
+
+
+add
+
+test_break.py
+file
+
+
+
+add
+
+test_skipping.py
+file
+
+
+
+add
+

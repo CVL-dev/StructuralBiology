@@ -1,0 +1,5 @@
+#!/home/eman64/library/Python-2.7.2-ucs4-bsddb-5.2.28.NC/bin/python2.7
+import sys
+from lib2to3.main import main
+
+sys.exit(main("lib2to3.fixes"))

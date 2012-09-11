@@ -1,0 +1,245 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/lib/python2.7/distutils
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+spawn.py
+file
+
+
+
+add
+
+core.py
+file
+
+
+
+add
+
+msvc9compiler.py
+file
+
+
+
+add
+
+cygwinccompiler.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+msvccompiler.py
+file
+
+
+
+add
+
+config.py
+file
+
+
+
+add
+
+filelist.py
+file
+
+
+
+add
+
+tests
+dir
+
+
+
+add
+
+util.py
+file
+
+
+
+add
+
+ccompiler.py
+file
+
+
+
+add
+
+bcppcompiler.py
+file
+
+
+
+add
+
+unixccompiler.py
+file
+
+
+
+add
+
+command
+dir
+
+
+
+add
+
+cmd.py
+file
+
+
+
+add
+
+dist.py
+file
+
+
+
+add
+
+sysconfig.py
+file
+
+
+
+add
+
+dep_util.py
+file
+
+
+
+add
+
+versionpredicate.py
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+dir_util.py
+file
+
+
+
+add
+
+file_util.py
+file
+
+
+
+add
+
+errors.py
+file
+
+
+
+add
+
+extension.py
+file
+
+
+
+add
+
+archive_util.py
+file
+
+
+
+add
+
+log.py
+file
+
+
+
+add
+
+fancy_getopt.py
+file
+
+
+
+add
+
+text_file.py
+file
+
+
+
+add
+
+version.py
+file
+
+
+
+add
+
+debug.py
+file
+
+
+
+add
+
+emxccompiler.py
+file
+
+
+
+add
+

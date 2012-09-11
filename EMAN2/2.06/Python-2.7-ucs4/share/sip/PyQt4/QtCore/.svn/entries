@@ -1,0 +1,686 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/sip/PyQt4/QtCore
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+qabstractstate.sip
+file
+
+
+
+add
+
+qstatemachine.sip
+file
+
+
+
+add
+
+qrunnable.sip
+file
+
+
+
+add
+
+qobject.sip
+file
+
+
+
+add
+
+quuid.sip
+file
+
+
+
+add
+
+qstring.sip
+file
+
+
+
+add
+
+qstringmatcher.sip
+file
+
+
+
+add
+
+qwaitcondition.sip
+file
+
+
+
+add
+
+qmap.sip
+file
+
+
+
+add
+
+qmetaobject.sip
+file
+
+
+
+add
+
+qlibraryinfo.sip
+file
+
+
+
+add
+
+qtimer.sip
+file
+
+
+
+add
+
+qstate.sip
+file
+
+
+
+add
+
+qtemporaryfile.sip
+file
+
+
+
+add
+
+qtextcodec.sip
+file
+
+
+
+add
+
+qpropertyanimation.sip
+file
+
+
+
+add
+
+qpluginloader.sip
+file
+
+
+
+add
+
+qresource.sip
+file
+
+
+
+add
+
+qtranslator.sip
+file
+
+
+
+add
+
+qabstractfileengine.sip
+file
+
+
+
+add
+
+qset.sip
+file
+
+
+
+add
+
+qpair.sip
+file
+
+
+
+add
+
+qanimationgroup.sip
+file
+
+
+
+add
+
+qrect.sip
+file
+
+
+
+add
+
+qlocale.sip
+file
+
+
+
+add
+
+qsettings.sip
+file
+
+
+
+add
+
+qtextstream.sip
+file
+
+
+
+add
+
+qvector.sip
+file
+
+
+
+add
+
+qabstractanimation.sip
+file
+
+
+
+add
+
+qvariantanimation.sip
+file
+
+
+
+add
+
+qobjectdefs.sip
+file
+
+
+
+add
+
+qcoreapplication.sip
+file
+
+
+
+add
+
+qpauseanimation.sip
+file
+
+
+
+add
+
+qelapsedtimer.sip
+file
+
+
+
+add
+
+qfile.sip
+file
+
+
+
+add
+
+qtextboundaryfinder.sip
+file
+
+
+
+add
+
+qcryptographichash.sip
+file
+
+
+
+add
+
+qbasictimer.sip
+file
+
+
+
+add
+
+qsemaphore.sip
+file
+
+
+
+add
+
+qdatastream.sip
+file
+
+
+
+add
+
+qline.sip
+file
+
+
+
+add
+
+qsocketnotifier.sip
+file
+
+
+
+add
+
+qnamespace.sip
+file
+
+
+
+add
+
+qfsfileengine.sip
+file
+
+
+
+add
+
+qsharedmemory.sip
+file
+
+
+
+add
+
+qthreadpool.sip
+file
+
+
+
+add
+
+qurl.sip
+file
+
+
+
+add
+
+qlibrary.sip
+file
+
+
+
+add
+
+qtimeline.sip
+file
+
+
+
+add
+
+qpynullvariant.sip
+file
+
+
+
+add
+
+qparallelanimationgroup.sip
+file
+
+
+
+add
+
+qeasingcurve.sip
+file
+
+
+
+add
+
+qobjectcleanuphandler.sip
+file
+
+
+
+add
+
+QtCoremod.sip
+file
+
+
+
+add
+
+qbitarray.sip
+file
+
+
+
+add
+
+qdir.sip
+file
+
+
+
+add
+
+qmimedata.sip
+file
+
+
+
+add
+
+qhash.sip
+file
+
+
+
+add
+
+qiodevice.sip
+file
+
+
+
+add
+
+qsequentialanimationgroup.sip
+file
+
+
+
+add
+
+qsystemsemaphore.sip
+file
+
+
+
+add
+
+qsignaltransition.sip
+file
+
+
+
+add
+
+qmetatype.sip
+file
+
+
+
+add
+
+qreadwritelock.sip
+file
+
+
+
+add
+
+qglobal.sip
+file
+
+
+
+add
+
+qmargins.sip
+file
+
+
+
+add
+
+qmutex.sip
+file
+
+
+
+add
+
+qhistorystate.sip
+file
+
+
+
+add
+
+qbytearray.sip
+file
+
+
+
+add
+
+qstringlist.sip
+file
+
+
+
+add
+
+qvariant.sip
+file
+
+
+
+add
+
+qbytearraymatcher.sip
+file
+
+
+
+add
+
+qthread.sip
+file
+
+
+
+add
+
+qbuffer.sip
+file
+
+
+
+add
+
+qsize.sip
+file
+
+
+
+add
+
+qlist.sip
+file
+
+
+
+add
+
+qeventloop.sip
+file
+
+
+
+add
+
+qxmlstream.sip
+file
+
+
+
+add
+
+qabstracteventdispatcher.sip
+file
+
+
+
+add
+
+qchar.sip
+file
+
+
+
+add
+
+qprocess.sip
+file
+
+
+
+add
+
+qabstracttransition.sip
+file
+
+
+
+add
+
+qsignalmapper.sip
+file
+
+
+
+add
+
+qdiriterator.sip
+file
+
+
+
+add
+
+qpoint.sip
+file
+
+
+
+add
+
+qcoreevent.sip
+file
+
+
+
+add
+
+qregexp.sip
+file
+
+
+
+add
+
+qfinalstate.sip
+file
+
+
+
+add
+
+qfileinfo.sip
+file
+
+
+
+add
+
+qeventtransition.sip
+file
+
+
+
+add
+
+qdatetime.sip
+file
+
+
+
+add
+
+qfilesystemwatcher.sip
+file
+
+
+
+add
+
+qnumeric.sip
+file
+
+
+
+add
+
+qabstractitemmodel.sip
+file
+
+
+
+add
+

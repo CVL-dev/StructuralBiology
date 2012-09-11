@@ -1,0 +1,266 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/lib/python2.7/distutils/command
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+build_clib.py
+file
+
+
+
+add
+
+wininst-9.0.exe
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+install_lib.py
+file
+
+
+
+add
+
+build.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+install_data.py
+file
+
+
+
+add
+
+install_headers.py
+file
+
+
+
+add
+
+wininst-9.0-amd64.exe
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+install_egg_info.py
+file
+
+
+
+add
+
+bdist.py
+file
+
+
+
+add
+
+config.py
+file
+
+
+
+add
+
+install.py
+file
+
+
+
+add
+
+build_scripts.py
+file
+
+
+
+add
+
+build_py.py
+file
+
+
+
+add
+
+bdist_dumb.py
+file
+
+
+
+add
+
+bdist_msi.py
+file
+
+
+
+add
+
+check.py
+file
+
+
+
+add
+
+install_scripts.py
+file
+
+
+
+add
+
+build_ext.py
+file
+
+
+
+add
+
+bdist_wininst.py
+file
+
+
+
+add
+
+clean.py
+file
+
+
+
+add
+
+command_template
+file
+
+
+
+add
+
+bdist_rpm.py
+file
+
+
+
+add
+
+upload.py
+file
+
+
+
+add
+
+register.py
+file
+
+
+
+add
+
+wininst-6.0.exe
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+sdist.py
+file
+
+
+
+add
+
+wininst-8.0.exe
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+wininst-7.1.exe
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

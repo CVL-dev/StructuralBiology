@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/lib/python2.7/lib2to3/tests/data
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+fixers
+dir
+
+
+
+add
+
+different_encoding.py
+file
+
+
+
+add
+
+bom.py
+file
+
+
+
+add
+
+infinite_recursion.py
+file
+
+
+
+add
+
+py2_test_grammar.py
+file
+
+
+
+add
+
+py3_test_grammar.py
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+crlf.py
+file
+
+
+
+add
+

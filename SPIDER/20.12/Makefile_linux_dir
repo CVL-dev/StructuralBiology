@@ -1,0 +1,37 @@
+# 
+# PURPOSE:  MAKEFILE FOR Linux WEB Using 24 bit DirectColor Visual 
+#           Byteswaps images for compatibility with SGI 
+#           Uses the GNU gcc compiler & X/Motif libraries
+#           Static link for Motif libraries: libXm.a 
+#
+# USAGE:    make -f Makefile_linux_dir
+#           swt ; $swb/web_linux_dir_tmp dat &
+
+# Use Gnu compiler
+CC    = gcc
+
+#-mtune=generic  DID NOT WORK
+# Define compiler flags & header include locations
+# Define cpp variable P_SGIOSF to use SGI byte-order images 
+# Define cpp variable WEB_BGFG to overcome KDE & Gnome WM focus bug
+
+CFLAGS = -DFUNCPROTO -O2 -I/usr/X11R6/include -DP_SGIOSF -DWEB_24 -DWEB_BGFG
+
+LF     = 
+
+PGM    = web_linux_dir
+
+LIB    = lib$(PGM).a
+
+# Static link for Motif libraries libXm.a 
+#OTHERLIBS  =  -L/usr/X11R6/lib   /usr/X11R6/lib/libXm.a  /usr/X11R6/lib/libXp.a -lXt -lX11 /usr/X11R6/lib/libXmu.a /usr/X11R6/lib/libXext.a  -lm
+OTHERLIBS  =  -L/usr/lib64 -lXm -lXmu -lXext -lXt -lX11 -lm
+
+.PRECIOUS : $(LIB) $(PGM)
+
+include Makefile.inc
+
+include Makebody.inc
+
+
+

@@ -1,0 +1,8 @@
+#!/home/eman64/Python/bin/python
+# -*- coding: utf-8 -*-
+"""IPython Test Suite Runner.
+"""
+
+from IPython.testing import iptest
+
+iptest.main()

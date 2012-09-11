@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/share/sip/PyQt4/QtWebKit
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+qwebpluginfactory.sip
+file
+
+
+
+add
+
+qwebinspector.sip
+file
+
+
+
+add
+
+qwebelement.sip
+file
+
+
+
+add
+
+qwebview.sip
+file
+
+
+
+add
+
+qwebframe.sip
+file
+
+
+
+add
+
+QtWebKitmod.sip
+file
+
+
+
+add
+
+qgraphicswebview.sip
+file
+
+
+
+add
+
+qwebpage.sip
+file
+
+
+
+add
+
+qwebkitversion.sip
+file
+
+
+
+add
+
+qwebsecurityorigin.sip
+file
+
+
+
+add
+
+qwebsettings.sip
+file
+
+
+
+add
+
+qwebhistory.sip
+file
+
+
+
+add
+
+qwebhistoryinterface.sip
+file
+
+
+
+add
+
+qwebdatabase.sip
+file
+
+
+
+add
+

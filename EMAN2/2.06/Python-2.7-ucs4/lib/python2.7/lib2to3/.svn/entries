@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/lib/python2.7/lib2to3
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+__init__.py
+file
+
+
+
+add
+
+pygram.py
+file
+
+
+
+add
+
+btm_utils.py
+file
+
+
+
+add
+
+patcomp.py
+file
+
+
+
+add
+
+refactor.py
+file
+
+
+
+add
+
+fixer_base.py
+file
+
+
+
+add
+
+pytree.py
+file
+
+
+
+add
+
+fixer_util.py
+file
+
+
+
+add
+
+tests
+dir
+
+
+
+add
+
+PatternGrammar.txt
+file
+
+
+
+add
+
+Grammar.txt
+file
+
+
+
+add
+
+PatternGrammar2.7.2.final.0.pickle
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+__main__.py
+file
+
+
+
+add
+
+Grammar2.7.2.final.0.pickle
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+pgen2
+dir
+
+
+
+add
+
+main.py
+file
+
+
+
+add
+
+btm_matcher.py
+file
+
+
+
+add
+
+fixes
+dir
+
+
+
+add
+

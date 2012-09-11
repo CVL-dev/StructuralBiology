@@ -1,0 +1,11 @@
+#!/home/eman64/Python/bin/python
+# -*- coding: utf-8 -*-
+"""IPythonX -- An enhanced Interactive Python
+
+This script starts the Wx graphical frontend. This is experimental so
+far.
+"""
+
+from IPython.frontend.wx import ipythonx
+
+ipythonx.main()

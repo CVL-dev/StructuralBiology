@@ -1,0 +1,7 @@
+#!/bin/sh
+#
+# CVL run script for GUI applications.
+#
+
+/usr/local/eman2/2.06/Python/bin/python /usr/local/eman2/2.06/bin/e2workflow.py
+

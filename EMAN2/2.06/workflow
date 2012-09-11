@@ -1,0 +1,14 @@
+#!/bin/sh
+#
+# CVL run script for GUI applications.
+#
+
+module load eman2
+
+PROGRAM="workflow"
+
+EMAN=`which ${PROGRAM} | sed "s/\/bin\/${PROGRAM}//g"`
+
+
+${EMAN}/Python/bin/python ${EMAN}/bin/e2workflow.py
+

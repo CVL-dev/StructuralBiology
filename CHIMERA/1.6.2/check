@@ -1,0 +1,10 @@
+#!/bin/sh
+#
+# CVL build system to check or configure building process after installation.
+#
+
+SOURCE_DIR=$1
+BUILD_DIR=$2
+INSTALL_DIR=$3
+
+echo "Dummy testing ..... OK"

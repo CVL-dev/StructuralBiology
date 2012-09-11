@@ -1,0 +1,29 @@
+#!/bin/sh
+
+SOURCE_DIR=$1
+BUILD_DIR=$2
+INSTALL_DIR=$3
+
+cp -r ${BUILD_DIR}/bin ${INSTALL_DIR}
+cp -r ${BUILD_DIR}/lib ${INSTALL_DIR}
+cp -r ${BUILD_DIR}/applications ${INSTALL_DIR}
+cp -r ${BUILD_DIR}/external ${INSTALL_DIR}
+cp -r ${BUILD_DIR}/protocols ${INSTALL_DIR}
+cp -r ${BUILD_DIR}/java ${INSTALL_DIR}
+cp -r ${BUILD_DIR}/resources ${INSTALL_DIR}
+cp -f ${SOURCE_DIR}/.xmipp.bashrc ${INSTALL_DIR}
+cp -f ${SOURCE_DIR}/setup.py ${INSTALL_DIR}
+#cp -f ${SOURCE_DIR}/countXmippLines.sh ${INSTALL_DIR}
+#cp -f ${SOURCE_DIR}/createDocumentation.sh ${INSTALL_DIR}
+cp ${BUILD_DIR}/.xmipp.cfg ${INSTALL_DIR}
+cp ${BUILD_DIR}/.xmipp.csh ${INSTALL_DIR}
+cp ${BUILD_DIR}/.xmipp_scons.options ${INSTALL_DIR}
+chmod 755 ${INSTALL_DIR}/bin/xmipp_python
+chmod -R 777 ${INSTALL_DIR}/external/python/Python-2.7.2
+pushd ${INSTALL_DIR}/external/python/Python-2.7.2
+cd /usr/local/xmipp/3.0/external/python/Python-2.7.2
+sudo chmod 755 Lib Python Demo Doc Grammar Include Lib Mac Misc Modules Objects Parser PC PCbuild Python RISCOS Tools
+popd
+
+cp ${SOURCE_DIR}/xmipp_init ${INSTALL_DIR}/bin
+

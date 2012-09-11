@@ -1,0 +1,868 @@
+10
+
+dir
+0
+https://svn-vre.its.monash.edu.au/cvl/MasterBuild/trunk/EMAN2/2.06/Python-2.7-ucs4/lib/python2.7/encodings
+https://svn-vre.its.monash.edu.au/cvl
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ff9dba9-bf4c-4b36-bbce-7230d93aaa3f
+
+ascii.py
+file
+
+
+
+add
+
+bz2_codec.py
+file
+
+
+
+add
+
+iso8859_13.py
+file
+
+
+
+add
+
+hp_roman8.py
+file
+
+
+
+add
+
+koi8_r.py
+file
+
+
+
+add
+
+cp720.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+gb2312.py
+file
+
+
+
+add
+
+cp932.py
+file
+
+
+
+add
+
+cp861.py
+file
+
+
+
+add
+
+cp855.py
+file
+
+
+
+add
+
+cp865.py
+file
+
+
+
+add
+
+euc_jp.py
+file
+
+
+
+add
+
+cp875.py
+file
+
+
+
+add
+
+cp1140.py
+file
+
+
+
+add
+
+iso8859_1.py
+file
+
+
+
+add
+
+iso2022_jp_1.py
+file
+
+
+
+add
+
+cp869.py
+file
+
+
+
+add
+
+utf_16_be.py
+file
+
+
+
+add
+
+cp1251.py
+file
+
+
+
+add
+
+iso8859_5.py
+file
+
+
+
+add
+
+quopri_codec.py
+file
+
+
+
+add
+
+mac_greek.py
+file
+
+
+
+add
+
+mac_iceland.py
+file
+
+
+
+add
+
+cp1255.py
+file
+
+
+
+add
+
+iso8859_9.py
+file
+
+
+
+add
+
+gb18030.py
+file
+
+
+
+add
+
+utf_16_le.py
+file
+
+
+
+add
+
+mac_romanian.py
+file
+
+
+
+add
+
+utf_8.py
+file
+
+
+
+add
+
+string_escape.py
+file
+
+
+
+add
+
+latin_1.py
+file
+
+
+
+add
+
+iso2022_jp.py
+file
+
+
+
+add
+
+cp424.py
+file
+
+
+
+add
+
+mac_roman.py
+file
+
+
+
+add
+
+zlib_codec.py
+file
+
+
+
+add
+
+koi8_u.py
+file
+
+
+
+add
+
+iso8859_16.py
+file
+
+
+
+add
+
+iso2022_jp_2004.py
+file
+
+
+
+add
+
+cp850.py
+file
+
+
+
+add
+
+ptcp154.py
+file
+
+
+
+add
+
+cp860.py
+file
+
+
+
+add
+
+cp737.py
+file
+
+
+
+add
+
+cp864.py
+file
+
+
+
+add
+
+cp874.py
+file
+
+
+
+add
+
+unicode_escape.py
+file
+
+
+
+add
+
+cp858.py
+file
+
+
+
+add
+
+cp949.py
+file
+
+
+
+add
+
+mac_latin2.py
+file
+
+
+
+add
+
+iso2022_jp_ext.py
+file
+
+
+
+add
+
+cp1006.py
+file
+
+
+
+add
+
+cp1250.py
+file
+
+
+
+add
+
+cp1026.py
+file
+
+
+
+add
+
+iso8859_4.py
+file
+
+
+
+add
+
+cp1254.py
+file
+
+
+
+add
+
+iso8859_8.py
+file
+
+
+
+add
+
+euc_jisx0213.py
+file
+
+
+
+add
+
+mac_croatian.py
+file
+
+
+
+add
+
+shift_jisx0213.py
+file
+
+
+
+add
+
+aliases.py
+file
+
+
+
+add
+
+hz.py
+file
+
+
+
+add
+
+shift_jis.py
+file
+
+
+
+add
+
+big5hkscs.py
+file
+
+
+
+add
+
+cp1258.py
+file
+
+
+
+add
+
+utf_7.py
+file
+
+
+
+add
+
+uu_codec.py
+file
+
+
+
+add
+
+cp500.py
+file
+
+
+
+add
+
+iso8859_11.py
+file
+
+
+
+add
+
+palmos.py
+file
+
+
+
+add
+
+cp037.py
+file
+
+
+
+add
+
+iso8859_15.py
+file
+
+
+
+add
+
+cp437.py
+file
+
+
+
+add
+
+cp950.py
+file
+
+
+
+add
+
+utf_32.py
+file
+
+
+
+add
+
+cp863.py
+file
+
+
+
+add
+
+gbk.py
+file
+
+
+
+add
+
+utf_16.py
+file
+
+
+
+add
+
+cp857.py
+file
+
+
+
+add
+
+rot_13.py
+file
+
+
+
+add
+
+euc_kr.py
+file
+
+
+
+add
+
+utf_32_be.py
+file
+
+
+
+add
+
+mac_turkish.py
+file
+
+
+
+add
+
+iso8859_3.py
+file
+
+
+
+add
+
+idna.py
+file
+
+
+
+add
+
+charmap.py
+file
+
+
+
+add
+
+iso2022_jp_3.py
+file
+
+
+
+add
+
+cp1253.py
+file
+
+
+
+add
+
+iso8859_7.py
+file
+
+
+
+add
+
+raw_unicode_escape.py
+file
+
+
+
+add
+
+cp1257.py
+file
+
+
+
+add
+
+utf_32_le.py
+file
+
+
+
+add
+
+unicode_internal.py
+file
+
+
+
+add
+
+johab.py
+file
+
+
+
+add
+
+mbcs.py
+file
+
+
+
+add
+
+mac_farsi.py
+file
+
+
+
+add
+
+euc_jis_2004.py
+file
+
+
+
+add
+
+shift_jis_2004.py
+file
+
+
+
+add
+
+iso8859_10.py
+file
+
+
+
+add
+
+mac_cyrillic.py
+file
+
+
+
+add
+
+iso8859_14.py
+file
+
+
+
+add
+
+iso2022_kr.py
+file
+
+
+
+add
+
+mac_arabic.py
+file
+
+
+
+add
+
+cp852.py
+file
+
+
+
+add
+
+undefined.py
+file
+
+
+
+add
+
+cp862.py
+file
+
+
+
+add
+
+mac_centeuro.py
+file
+
+
+
+add
+
+cp775.py
+file
+
+
+
+add
+
+cp856.py
+file
+
+
+
+add
+
+cp866.py
+file
+
+
+
+add
+
+iso8859_2.py
+file
+
+
+
+add
+
+iso2022_jp_2.py
+file
+
+
+
+add
+
+cp1252.py
+file
+
+
+
+add
+
+iso8859_6.py
+file
+
+
+
+add
+
+cp1256.py
+file
+
+
+
+add
+
+hex_codec.py
+file
+
+
+
+add
+
+base64_codec.py
+file
+
+
+
+add
+
+tis_620.py
+file
+
+
+
+add
+
+punycode.py
+file
+
+
+
+add
+
+big5.py
+file
+
+
+
+add
+
+utf_8_sig.py
+file
+
+
+
+add
+

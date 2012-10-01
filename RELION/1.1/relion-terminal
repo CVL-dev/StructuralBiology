@@ -1,0 +1,8 @@
+#!/bin/sh
+
+module load openmpi
+
+terminal --title="Relion terminal" --working-directory="~/" &
+
+wait
+

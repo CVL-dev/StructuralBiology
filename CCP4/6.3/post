@@ -1,0 +1,6 @@
+pushd /usr/local/ccp4/6.3
+tar zxvf cvl-ccp4.tar.gz
+rm -f cvl-ccp4.tar.gz
+popd
+
+

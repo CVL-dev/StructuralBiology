@@ -1,0 +1,20 @@
+#!/bin/sh
+#
+# CVL build system to check or configure building process after installation.
+#
+
+SOURCE_DIR=$1
+BUILD_DIR=$2
+INSTALL_DIR=$3
+
+cp ${BUILD_DIR}/../RELION1.0-build/refine ${INSTALL_DIR}/bin
+cp ${BUILD_DIR}/../RELION1.0-build/project ${INSTALL_DIR}/bin
+cp ${BUILD_DIR}/../RELION1.0-build/reconstruct ${INSTALL_DIR}/bin
+cp ${BUILD_DIR}/../RELION1.0-build/gui/qsub.csh ${INSTALL_DIR}/bin
+cp ${SOURCE_DIR}/relion-terminal ${INSTALL_DIR}/bin
+cp ${SOURCE_DIR}/document ${INSTALL_DIR}/bin
+
+# Copy module validation script to package directory.
+if [ ! -f ${INSTALL_DIR}/validate_module.sh ]; then
+    cp ${SOURCE_DIR}/validate_module.sh ${INSTALL_DIR}
+fi

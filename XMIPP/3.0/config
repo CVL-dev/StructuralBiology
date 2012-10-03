@@ -10,7 +10,7 @@ ModuleFileDescription="Structural biology application"
 #
 # Package release number.
 #
-PACKAGE_RELEASE="2.12"
+PACKAGE_RELEASE="2.13"
 
 #
 # For source package, set it "ON", for binary package, set it "OFF".

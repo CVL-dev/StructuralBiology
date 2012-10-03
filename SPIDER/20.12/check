@@ -8,3 +8,8 @@ BUILD_DIR=$2
 INSTALL_DIR=$3
 
 cp ${SOURCE_DIR}/document ${INSTALL_DIR}/spider/bin
+
+# Copy module validation script to package directory.
+if [ ! -f ${INSTALL_DIR}/validate_module.sh ]; then
+    cp ${SOURCE_DIR}/validate_module.sh ${INSTALL_DIR}
+fi

@@ -30,3 +30,8 @@ cp ${SOURCE_DIR}/tutorial ${INSTALL_DIR}/bin
 cp ${SOURCE_DIR}/workflow ${INSTALL_DIR}/bin
 
 cp -fr ${SOURCE_DIR}/lib/* ${INSTALL_DIR}/lib
+
+# Copy module validation script to package directory.
+if [ ! -f ${INSTALL_DIR}/validate_module.sh ]; then
+    cp ${SOURCE_DIR}/validate_module.sh ${INSTALL_DIR}
+fi

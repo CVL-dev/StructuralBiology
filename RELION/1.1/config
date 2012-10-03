@@ -10,7 +10,7 @@ ModuleFileDescription="Application"
 #
 # Package release number.
 #
-PACKAGE_RELEASE="0.1"
+PACKAGE_RELEASE="0.2"
 
 #
 # For source package, set it "ON", for binary package, set it "OFF".
@@ -30,7 +30,9 @@ function ConfigurationCommand()
     SOURCE=$1
     INSTALL=$2
 
-    ${SOURCE}/${CONFIGURE} --prefix=${INSTALL}
+    module load openmpi
+
+    ${SOURCE}/INSTALL.sh ${INSTALL}
 }
 
 #
@@ -38,7 +40,7 @@ function ConfigurationCommand()
 #
 function MakeCommand()
 {
-    make
+    echo
 }
 
 #
@@ -46,7 +48,7 @@ function MakeCommand()
 #
 function InstallCommand()
 {
-    make install
+    echo
 }
 
 #
@@ -58,7 +60,7 @@ function PatchCommand()
     BuildSourceDirectory=$2
     InstallDirectory=$3
 
-    echo
+    cp -f ${SourceDirectory}/INSTALL.sh ${BuildSourceDirectory}
 }
 
 #
@@ -110,13 +112,13 @@ MenuDirectory="Relion:applications-system"
 # the installation prefix. For example, if /usr/local/turbovnc/1.1/bin/vncviewer
 # is the FQPN, the executable_file should be set to bin/vncviewer.
 #
-MenuDesktop="bin/relion-terminal:Relion Terminal:applications-utilities:false;bin/document:Relion document:help:false"
+MenuDesktop="bin/relion:Relion:applications-utilities:true;bin/document:Relion document:help:false"
 
 #
 # Set library dependencies in following format (version is optional):
 # <module1/version>:<module2/version>...:<moduleN/version>
 #
-#LibraryDependency=
+LibraryDependency="openmpi"
 
 #
 # Local build flag, set it to ON for building or OFF otherwise.
@@ -131,7 +133,7 @@ REQUEST_PACKAGE="ON"
 #
 # Build in source directory, "ON" or "OFF".
 #
-BUILD_IN_SOURCE="OFF"
+BUILD_IN_SOURCE="ON"
 
 #
 # Install module file flag, "ON" or "OFF".

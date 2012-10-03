@@ -10,7 +10,7 @@ ModuleFileDescription="Application"
 #
 # Package release number.
 #
-PACKAGE_RELEASE="0.10"
+PACKAGE_RELEASE="0.11"
 
 #
 # For source package, set it "ON", for binary package, set it "OFF".
@@ -156,6 +156,13 @@ INSTALL_MODULE_FILE="ON"
 AutoDependencyCheck="false"
 
 #
+# Pre installation script for RPM package only. The bash script file should be
+# available in the source localtion. Edit following variable for file name
+# (no path) and only one script can be defined.
+#
+# PreInstallScript=
+
+#
 # Post script for RPM package only. The bash script file should be available
 # in the source localtion. Edit following variable for file name (no path) and
 # only one script can be defined.
@@ -229,6 +236,9 @@ case "$1" in
         ;;
     -u|--auto-dependency-check)
         echo -n ${AutoDependencyCheck}
+        ;;
+    -v|--pre-install-script-file)
+        echo -n ${PreInstallScript}
         ;;
     -y|--post-install-script-file)
         echo -n ${PostInstallScript}

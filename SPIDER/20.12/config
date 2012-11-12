@@ -10,7 +10,7 @@ ModuleFileDescription="Spider Application"
 #
 # Package release number.
 #
-PACKAGE_RELEASE="0.5"
+PACKAGE_RELEASE="0.6"
 
 #
 # For source package, set it "ON", for binary package, set it "OFF".

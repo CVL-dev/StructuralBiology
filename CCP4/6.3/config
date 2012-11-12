@@ -10,7 +10,7 @@ ModuleFileDescription="Application"
 #
 # Package release number.
 #
-PACKAGE_RELEASE="0.4"
+PACKAGE_RELEASE="0.5"
 
 #
 # For source package, set it "ON", for binary package, set it "OFF".
@@ -133,7 +133,7 @@ MenuDirectory="ccp4:~/ccp4-6.3.0/ccp4i.png"
 # the installation prefix. For example, if /usr/local/turbovnc/1.1/bin/vncviewer
 # is the FQPN, the executable_file should be set to bin/vncviewer.
 #
-MenuDesktop="ccp4-6.3.0/ccp4i.sh:ccp4:~/ccp4-6.3.0/ccp4i.png:true;ccp4mg-2.6.2/bin/ccp4mg:ccp4mg:~/ccp4mg-2.6.2/ccp4mg.png:true;document:ccp4 document:help:false;coot-0.6.2/bin/coot:ccp4 coot:~/coot-0.6.2/coot.png:true;arp_warp_7.3/bin/bin-x86_64-Linux/arp_warp:ccp4 arp_warp:~/arp_warp_7.3/share/ARP_logo_small.gif:true"
+MenuDesktop="ccp4-6.3.0/bin/ccp4i.sh:ccp4:~/ccp4-6.3.0/ccp4i.png:true;ccp4mg-2.6.2/bin/ccp4mg:ccp4mg:~/ccp4mg-2.6.2/ccp4mg.png:true;document:ccp4 document:help:false;coot-0.6.2/bin/coot:ccp4 coot:~/coot-0.6.2/coot.png:true;arp_warp_7.3/bin/bin-x86_64-Linux/arp_warp:ccp4 arp_warp:~/arp_warp_7.3/share/ARP_logo_small.gif:true"
 
 #
 # Set library dependencies in following format (version is optional):

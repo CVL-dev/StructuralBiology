@@ -15,6 +15,11 @@ cp ${BUILD_DIR}/pymol ${INSTALL_DIR}/bin
 cp ${SOURCE_DIR}/document ${INSTALL_DIR}/bin
 cp ${SOURCE_DIR}/pymol_icon.png ${INSTALL_DIR}
 
+# Pmw plugin
+pushd ${SOURCE_DIR}/pmw/src/
+python setup.py install --prefix=${INSTALL_DIR}
+popd
+
 # Copy module validation script to package directory.
 if [ ! -f ${INSTALL_DIR}/validate_module.sh ]; then
     cp ${SOURCE_DIR}/validate_module.sh ${INSTALL_DIR}

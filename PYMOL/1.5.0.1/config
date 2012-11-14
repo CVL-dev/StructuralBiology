@@ -10,7 +10,7 @@ ModuleFileDescription="Application"
 #
 # Package release number.
 #
-PACKAGE_RELEASE="0.2"
+PACKAGE_RELEASE="0.3"
 
 #
 # For source package, set it "ON", for binary package, set it "OFF".
@@ -105,7 +105,7 @@ MenuLayout="cvl:structural-biology"
 # Set directory menu in format <comment>:<icon>. If the icon file is from
 # package, using "~" for package installation path.
 #
-MenuDirectory="pymod application:~/pymol_icon.png"
+MenuDirectory="pymol application:~/pymol_icon.png"
 
 #
 # Set desktop menu in format <executable_file>:<comment>:<icon>:<add_terminal>,
@@ -118,7 +118,7 @@ MenuDirectory="pymod application:~/pymol_icon.png"
 # the installation prefix. For example, if /usr/local/turbovnc/1.1/bin/vncviewer
 # is the FQPN, the executable_file should be set to bin/vncviewer.
 #
-MenuDesktop="bin/pymol:pymod application:~/pymol_icon.png:true;bin/document:pymod application:help:false"
+MenuDesktop="bin/pymol:pymol application:~/pymol_icon.png:true;bin/document:pymol application:help:false"
 
 #
 # Set library dependencies in following format (version is optional):

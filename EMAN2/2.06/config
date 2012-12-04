@@ -10,7 +10,7 @@ ModuleFileDescription="Application"
 #
 # Package release number.
 #
-PACKAGE_RELEASE="0.7"
+PACKAGE_RELEASE="2.0"
 
 #
 # For source package, set it "ON", for binary package, set it "OFF".
@@ -93,29 +93,50 @@ prepend-path PYTHONPATH /usr/local/\$name/\$ver/lib:/usr/local/\$name/\$ver/bin:
 # - system
 # - structural-biology
 # - neuroimaging
-# - energy-materials
+# - energy-materials-atom
+# - energy-materials-xray
 #
 MenuLayout="cvl:structural-biology"
 
 #
-# Set directory menu in format <comment>:<icon>, using "~" for package 
-# installation path if the icon source is from the package.
+# Set module category menu, the syntax is in following format:
 #
-MenuDirectory="Eman2 application:~/images/EMAN2Icon.png" 
+# <name>:<icon>:<category>
+#
+# (1) <name> is the module category name showing on menu.
+#
+# (2) <icon> is the icon file, if the icon file is from the package, using "~"
+#     for package parent path.
+#
+# (3) <category> is optional, it does not need to be specified if the <name>
+#     is the application name. Otherwise, it can be defined similar to the
+#     <name> without white spaces. Make sure there are NO SPACES in <category>.
+#
+MenuDirectory="EMAN2:~/images/EMAN2Icon.png" 
 
 #
-# Set desktop menu in format <executable_file>:<comment>:<icon>:<add_terminal>,
-# multiple lines should be delimited by ";". The value of <add_terminal> flag
-# is "true" or "false"
+# Set desktop menu, the syntax is in following format:
 #
-# Using "~" for package installation path if the icon source is from the 
-# package.
+# <executable_file>:<name>:<icon>:<add_terminal>:<license>
 #
-# The binary_path is a relative path including executable filename but without 
-# the installation prefix. For example, if /usr/local/turbovnc/1.1/bin/vncviewer
-# is the FQPN, the executable_file should be set to bin/vncviewer.
+# (1) <executable_file> is relative path to the installation prefix. If the
+#     executable file is in /usr/local/fsl/5.0/bin/fsl, it should be set to
+#     "bin/fsl"
 #
-MenuDesktop="bin/workflow:Eman2:~/images/EMAN2Icon.png:true;bin/tutorial:EMAN2 User Guide:help:false"
+# (2) <name> is the application name showing on menu.
+#
+# (3) <icon> is the name of icon file, if the icon file is from the package,
+#     using "~" for package parent path.
+#
+# (4) <add_terminal> is a flag with two values of "true" or false".
+#
+# (5) <license> is optional, ignore it if there is no license requirement.
+#     It should point to the license file in the package. For example,
+#     /usr/local/fsl/5.0/bin/license.txt should be set to "bin/license.txt"
+#
+# Multiple lines should be delimited by ";".
+#
+MenuDesktop="bin/workflow:EMAN2 Workflow:~/images/EMAN2Icon.png:true;bin/tutorial:EMAN2 User Guide:help:false"
 
 #
 # Set library dependencies in following format (version is optional):

@@ -10,7 +10,7 @@ ModuleFileDescription="Application"
 #
 # Package release number.
 #
-PACKAGE_RELEASE="0.11"
+PACKAGE_RELEASE="2.0"
 
 #
 # For source package, set it "ON", for binary package, set it "OFF".
@@ -64,15 +64,7 @@ function PatchCommand()
 #
 # Module file environment setting, multiplines should be delimited by "\n".
 #
-#EnvironmentModuleList="
-#prepend-path --delim \" \" JPEG_CFLAGS -I/usr/local/$name/$ver/include\n
-#prepend-path --delim \" \" JPEG_LDFLAGS -L/usr/local/$name/$ver/lib\n
-#prepend-path --delim \" \" JPEG_LDFLAGS -lturbojpeg\n
-#prepend-path --delim \" \" CPPFLAGS -I/usr/local/$name/$ver/include\n
-#prepend-path --delim \" \" LDFLAGS -L/usr/local/$name/$ver/lib\n
-#setenv GCONV_PATH /usr/lib64/gconv/\n
-#setenv PBS_ROOT /usr/local/torque/latest
-#"
+#EnvironmentModuleList=
 
 #
 # Install configuration files to package in format of "<Source>:<Destination>",
@@ -98,24 +90,48 @@ function PatchCommand()
 # - system
 # - structural-biology
 # - neuroimaging
-# - energy-materials
+# - energy-materials-atom
+# - energy-materials-xray
 #
 MenuLayout="cvl:structural-biology"
 
 #
-# Set directory menu in format <comment>:<icon>
+# Set directory menu, the syntax is in following format:
 #
-MenuDirectory="Chimera extensiable molecular modeling system:applications-science"
+# <name>:<icon>:<category>
+#
+# (1) <name> is the module / category name showing on menu.
+#
+# (2) <icon> is the icon file, if the icon file is from the package, using "~"
+#     for package parent path.
+#
+# (3) <category> is optional, it does not need to be specified if the <name>
+#     is the application name. Otherwise, it can be defined similar to the
+#     <name> without white spaces. Make sure there are NO SPACES in <category>.
+#
+MenuDirectory="Chimera:applications-science"
 
 #
-# Set desktop menu in format <executable_file>:<comment>:<icon>:<add_terminal>,
-# using delimiter ";" to separate multiple lines.
+# Set desktop menu, the syntax is in following format:
 #
-# The binary_path is a relative path including executable filename but without 
-# the installation prefix. For example, if /usr/local/turbovnc/1.1/bin/vncviewer
-# is the FQPN, the executable_file should be set to bin/vncviewer.
+# <executable_file>:<name>:<icon>:<add_terminal>:<license>
 #
-MenuDesktop="bin/chimera:extensiable molecular modeling system:~/chimeraIcon.png:true"
+# (1) <executable_file> is relative path to the installation prefix. If the
+#     executable file is in /usr/local/fsl/5.0/bin/fsl, it should be set to
+#     "bin/fsl"
+#
+# (2) <name> is the application name showing on menu.
+#
+# (3) <icon> is the name of icon file, if the icon file is from the package,
+#     using "~" for package parent path.
+#
+# (4) <add_terminal> is a flag with two values of "true" or false".
+#
+# (5) <license> is optional, ignore it if there is no license requirement.
+#     It should point to the license file in the package. For example,
+#     /usr/local/fsl/5.0/bin/license.txt should be set to "bin/license.txt"
+#
+MenuDesktop="bin/chimera:Chimera 1.6.2 GUI:~/chimeraIcon.png:true"
 
 #
 # Set library dependencies in format <module1>:<module2>...:<moduleN>.

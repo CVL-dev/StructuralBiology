@@ -10,7 +10,7 @@ ModuleFileDescription="Application"
 #
 # Package release number.
 #
-PACKAGE_RELEASE="0.5"
+PACKAGE_RELEASE="2.0"
 
 #
 # For source package, set it "ON", for binary package, set it "OFF".
@@ -77,7 +77,7 @@ prepend-path PATH /usr/local/\$name/\$ver/coot-0.6.2/bin;
 prepend-path PATH /usr/local/\$name/\$ver/arp_warp-7.3/bin/bin-x86_64-Linux;
 setenv CCP4 /usr/local/\$name/\$ver/ccp4-6.3.0;
 setenv CCP4_BIN /usr/local/\$name/\$ver/ccp4-6.3.0/bin;
-setenv CCP4_BROWSER firefox;
+setenv CCP4_BROWSER google-chrome;
 setenv CCP4_CRANK 1;
 setenv CCP4_HELPDIR /usr/local/\$name/\$ver/ccp4-6.3.0/help;
 setenv CCP4_TOP /usr/local/\$name/\$ver/ccp4-6.3.0;
@@ -112,28 +112,50 @@ setenv CCP4_VERSION \$ver"
 # - system
 # - structural-biology
 # - neuroimaging
-# - energy-materials
+# - energy-materials-atom
+# - energy-materials-xray
 #
 MenuLayout="cvl:structural-biology"
 
 #
-# Set directory menu in format <comment>:<icon>. If the icon file is from
-# package, using "~" for package installation path.
+# Set module category menu, the syntax is in following format:
 #
-MenuDirectory="ccp4:~/ccp4-6.3.0/ccp4i.png"
+# <name>:<icon>:<category>
+#
+# (1) <name> is the module category name showing on menu.
+#
+# (2) <icon> is the icon file, if the icon file is from the package, using "~"
+#     for package parent path.
+#
+# (3) <category> is optional, it does not need to be specified if the <name> 
+#     is the application name. Otherwise, it can be defined similar to the   
+#     <name> without white spaces. Make sure there are NO SPACES in <category>.
+#
+MenuDirectory="CCP4:~/ccp4-6.3.0/ccp4i.png"
 
 #
-# Set desktop menu in format <executable_file>:<comment>:<icon>:<add_terminal>,
-# multiple lines should be delimited by ";". The value of <add_terminal> flag
-# is "true" or "false"
+# Set desktop application menu, the syntax is in following format:
 #
-# If the icon file is located in package, using "~" for package installation path.
+# <executable_file>:<name>:<icon>:<add_terminal>:<license>
 #
-# The binary_path is a relative path including executable filename but without 
-# the installation prefix. For example, if /usr/local/turbovnc/1.1/bin/vncviewer
-# is the FQPN, the executable_file should be set to bin/vncviewer.
+# (1) <executable_file> is relative path to the installation prefix. If the
+#     executable file is in /usr/local/fsl/5.0/bin/fsl, it should be set to
+#     "bin/fsl"
 #
-MenuDesktop="ccp4-6.3.0/bin/ccp4i.sh:ccp4:~/ccp4-6.3.0/ccp4i.png:true;ccp4mg-2.6.2/bin/ccp4mg:ccp4mg:~/ccp4mg-2.6.2/ccp4mg.png:true;document:ccp4 document:help:false;coot-0.6.2/bin/coot:ccp4 coot:~/coot-0.6.2/coot.png:true;arp_warp_7.3/bin/bin-x86_64-Linux/arp_warp:ccp4 arp_warp:~/arp_warp_7.3/share/ARP_logo_small.gif:true"
+# (2) <name> is the application name showing on menu.
+#
+# (3) <icon> is the name of icon file, if the icon file is from the package,
+#     using "~" for package parent path.
+#
+# (4) <add_terminal> is a flag with two values of "true" or false".
+#
+# (5) <license> is optional, ignore it if there is no license requirement.
+#     It should point to the license file in the package. For example,
+#     /usr/local/fsl/5.0/bin/license.txt should be set to "bin/license.txt"
+#
+# Multiple lines should be delimited by ";".
+#
+MenuDesktop="ccp4-6.3.0/bin/ccp4i.sh:CCP4 GUI:~/ccp4-6.3.0/ccp4i.png:true;ccp4mg-2.6.2/bin/ccp4mg:CCP4 Molecular Graphics:~/ccp4mg-2.6.2/ccp4mg.png:true;document:CCP4 Document:help:false;coot-0.6.2/bin/coot:CCP4 COOT:~/coot-0.6.2/coot.png:true;arp_warp_7.3/bin/bin-x86_64-Linux/arp_warp:CCP4 ARP:~/arp_warp_7.3/share/ARP_logo_small.gif:true"
 
 #
 # Set library dependencies in following format (version is optional):
@@ -203,7 +225,7 @@ case "$1" in
     -d|--directory-installation-list)
         echo -n ${PackageInstallDirectoryList}
         ;;
-    -e|--enviornment-module-list)
+    -e|--environment-module-list)
         echo -n ${EnvironmentModuleList}
         ;;
     -f|--file-installation-list)
